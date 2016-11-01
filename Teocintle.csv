@@ -1,0 +1,1014 @@
+OBJECTID_1,FID_teocin,OBJECTID,FID_Maices,Id,IdEjemplar,Raza_prima,Complejo_r,Anhio_Cole,Periodo_Co,Estado,Municipio,Localidad,Altitud,longitude,latitude,NOMBRE,FID_region,PROVBIOB,id_pbiob,id_pbiobr
+1,0,1,989,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,SAN PEDRO POCHUTLA,14.5 km al N de Pochutla cerca de La Palestina,276,-96.47044444,15.76438889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+2,1,2,990,0,0,Tripsacum maizar,Tripsacum,0,0,OAXACA,PLUMA HIDALGO,100 m antes de la desviación Copacita y San Mateo Piña,1062,-96.45772222,15.96294444,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+3,2,3,872,0,0,Tripsacum maizar,Tripsacum,0,0,OAXACA,PLUMA HIDALGO,Pluma Hidalgo,1100,-96.45,15.96666667,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+4,3,4,988,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,SAN GABRIEL MIXTEPEC,7.2 km al N de San Gabriel Mixtepec,798,-97.06227778,16.12311111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+5,4,5,836,0,0,Tripsacum intermedium,Tripsacum,0,0,CHIAPAS,LA TRINITARIA,La Trinitaria,750,-92.01666667,16,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+6,5,6,966,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,LA TRINITARIA,Km 209 carretera 190 Tuxtla-La Trinitaria (La Campana),819,-92.01666667,16,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+7,6,7,879,0,0,Tripsacum dactyloides dactyloides,Tripsacum,0,0,CHIAPAS,LA TRINITARIA,La Trinitaria,920,-92.01575,16.03011111,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+8,7,8,786,0,0,Tripsacum bravum,Tripsacum,0,0,OAXACA,SAN PEDRO JUCHATENGO,San Pedro Juchatengo,1050,-97.06666667,16.31666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+9,8,9,787,0,0,Tripsacum bravum,Tripsacum,0,0,OAXACA,SAN PEDRO JUCHATENGO,San Pedro Juchatengo,1000,-97.06666667,16.31666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+10,9,10,613,0,0,Tripsacum intermedium,Tripsacum,0,0,CHIAPAS,ND,La Trinitaria-23 Km sur de Lagunas de Montebello,750,-92.03333333,16.06666667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+11,10,11,614,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,ND,La Trinitaria-7.7 Km sur de Lagunas de Montebello,1300,-92.03333333,16.06666667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+12,11,12,965,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,LA TRINITARIA,Km 195 carretera 190 Tuxtla-La Trinitaria,1415,-92.03333333,16.06666667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+13,12,13,492,0,0,Balsas,Zea mays subsp. Mexicana,0,0,OAXACA,SAN JERÓNIMO COATLÁN,San Cristobal Honduras,1263,-97.04722222,16.32222222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+14,13,14,101,0,0,Balsas,Zea mays subsp. Mexicana,0,0,OAXACA,SAN PEDRO JUCHATENGO,San Cristóbal Honduras,1120,-97.03333333,16.33333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+15,14,15,987,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"Los Sabinos, 45.3 km al S de Sola de Vega y junto a Los Limones",961,-97.08855556,16.36719444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+16,15,16,986,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"Los Sabinos, 3.5 km al S de Los Sabinos",1006,-97.07583333,16.38213889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+17,16,17,985,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"San Isidro-Ojoa de Agua, 300 m al N de San Isidro-Ojo de Agua",1284,-97.05230556,16.43527778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+18,17,18,984,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"San Isidro-Ojo de Agua, 1.7 km al N de San Isidro-Ojo de Agua, 29.6 km al S de Sola de Vega",1481,-97.03288889,16.45011111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+19,18,19,983,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"La Cumbre, 3.8 km al S de la Cumbre",1976,-96.02011111,16.47741667,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+20,19,20,969,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,VILLAFLORES,"Km 35.9 carretera Arriaga-Villaflores (Champerico), se encuentra del km 35.9 hasta el km 45, a una distancia de 60 km de Arriaga a Domingo Chanona",915,-93.62613889,16.38322222,CORDILLERA CENTROAMERICANA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+21,20,21,967,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,CINTALAPA,"Carretera 190 Tuxtla Gutiérrez-Arriaga (Estación de Microondas, Las Minas), al SO del camino a terracería rumbo a la Estación de Microondas",752,-94,16.41666667,CORDILLERA CENTROAMERICANA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+22,21,22,888,0,0,Tripsacum dactyloides dactyloides,Tripsacum,0,0,OAXACA,SAN JUAN LAJARCIA,San Juan Lajarcia,920,-95.91363889,16.51852778,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+23,22,23,968,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,CINTALAPA,Km 11.1 carretera 190 Tuxtla-Arriaga (4 km antes de la colecta 25) a 500 m del poblado Niños Héroes,735,-94,16.43333333,CORDILLERA CENTROAMERICANA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+24,23,24,981,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"1.7 km después de La Colorada, al SE de La Colorada",1858,-96.94552778,16.57,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+25,24,25,982,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"La Colorada, 3.3 km al S de la Colorada",1844,-96.95347222,16.57169444,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+26,25,26,980,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"La Colorada, 10 km al S de El Vado",1868,-96.93211111,16.57530556,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+27,26,27,979,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,VILLA DE SOLA DE VEGA,"La Colorada, 8 km al S de El Vado, 3 km antes de La Colorada",1777,-96.91841667,16.57511111,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+28,27,28,991,0,0,Tripsacum sp,Tripsacum,0,0,OAXACA,EL CAMARÓN,15.1 km al NE de El Camarón,1214,-95.93433333,16.54041667,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+29,28,29,838,0,0,Tripsacum intermedium,Tripsacum,0,0,OAXACA,SAN FRANCISCO SOLA,San Francisco Sola,1840,-96.93333333,16.58333333,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+30,29,30,871,0,0,Tripsacum intermedium,Tripsacum,0,0,OAXACA,SAN FRANCISCO SOLA,San Francisco Sola,1840,-96.93333333,16.58333333,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+31,30,31,774,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,CINTALAPA,Las Minas,775,-94.05,16.46666667,CORDILLERA CENTROAMERICANA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+32,31,32,911,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,OMETEPEC,Huixtepec-Ladrillera,420,-98.30269444,16.64202778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+33,32,33,606,0,0,Tripsacum jalapense,Tripsacum,0,0,CHIAPAS,ND,Chiapa de Corzo-Km 28 de Tuxtla,800,-93,16.43333333,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+34,33,34,607,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,ND,Ixtapa-Km 39.7 de Tuxtla,1200,-93.06666667,16.45,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+35,34,35,609,0,0,Tripsacum intermedium,Tripsacum,0,0,CHIAPAS,ND,Ixtapa-Km 42.2 de Tuxtla,1250,-93.06666667,16.45,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+36,35,36,610,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,ND,Ixtapa-Km 42.2 de Tuxtla,1350,-93.06666667,16.45,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+37,36,37,912,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,OMETEPEC,Zacualpan-Xochistlahuaca,372,-98.2725,16.77166667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+38,37,38,970,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIÉRREZ,"Km 10.2, carretera Tuxtla-Suchiapa (junto al estacionamiento Vista de Suchiapa, pasado El Jobo)",788,-93.08513889,16.67030556,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+39,38,39,913,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,SAN LUIS ACATLAN,Tlapa-San Luis Acatlán,439,-98.76002778,16.90758333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+40,39,40,971,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,ZINACATLAN,"Potoptik, km 23.7 autopista Tuxtla-San Cristóbal",1386,-92.83333333,16.68333333,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+41,40,41,928,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,SAN LUIS ACATLAN,Potrillo del Rincón-San Luis Acatlán,746,-98.73269444,16.93875,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+42,41,42,972,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,ZINACATLAN,"Potoptik, km 22.7 autopista Tuxtla-San Cristóbal",1359,-92.83638889,16.69416667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+43,42,43,973,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,ZINACATLAN,Km 21.6 carretera 190 Tuxtla-San Cristóbal,1290,-92.86055556,16.69824167,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+44,43,44,974,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,CHIAPA DE CORZO,Km 18.9 autopista Tuxtla-San Cristóbal,1183,-92.87527778,16.70306667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+45,44,45,975,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,CHIAPA DE CORZO,Km 18 autopista Tuxtla-San Cristóbal,1128,-92.88083333,16.70668056,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+46,45,46,878,0,0,Tripsacum pilosum,Tripsacum,0,0,CHIAPAS,IXTAPA,Ixtapa,1024,-92.90480556,16.709,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+47,46,47,976,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,IXTAPA,Km 12 carretera Tuxtla Gutiérrez-Ixtapa,837,-92.92083333,16.72037222,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+48,47,48,952,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,SAN CRISTÓBAL DE LAS CASAS,Km 28 carretera 190 Tuxtla Gutiérrez-San Cristóbal,998,-92.95,16.73333333,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+49,48,49,956,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,NA,Km 40 carretera 190 Tuxtla Gutiérrez-San Cristóbal,1281,-92.90880556,16.74388889,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+50,49,50,951,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,SAN CRISTÓBAL DE LAS CASAS,Km 28 carretera 190 Tuxtla Gutiérrez-San Cristóbal,998,-92.95055556,16.74833333,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+51,50,51,978,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,NA,Km 28 carretera Tuxtla Gutiérrez-San Cristóbal (lado N),1016,-92.95502778,16.74893889,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+52,51,52,851,0,0,Tripsacum jalapense,Tripsacum,0,0,CHIAPAS,CHIAPA DE CORZO,Chiapa de Corzo,800,-92.96666667,16.75,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+53,52,53,953,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,SAN CRISTÓBAL DE LAS CASAS,Km 36-37 carretera Tuxtla Gutiérrez-San Cristóbal,1167,-92.91666667,16.75,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+54,53,54,794,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,IXTAPA,Ixtapa,1200,-92.9,16.75,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+55,54,55,883,0,0,Tripsacum dactyloides dactyloides,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,Tuxtla Gutierrez,835,-93.08697222,16.79327778,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+56,55,56,960,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIÉRREZ,Km 9.3 carretera Tuxtla al mirador Cañón del Sumidero,998,-93.08333333,16.8,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+57,56,57,961,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIÉRREZ,Km 9.3 carretera Tuxtla al mirador Cañón del Sumidero,998,-93.08333333,16.8,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+58,57,58,957,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIÉRREZ,Km 14.9 carretera Tuxtla al mirador Cañón del Sumidero,1208,-93.06666667,16.8,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+59,58,59,958,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIÉRREZ,Km 14.9 carretera Tuxtla al mirador Cañón del Sumidero,1208,-93.06666667,16.8,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+60,59,60,959,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIÉRREZ,Km 14.9 carretera Tuxtla al mirador Cañón del Sumidero,1028,-93.06666667,16.8,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+61,60,61,887,0,0,Tripsacum intermedium,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,Tuxtla Gutierrez,1204,-93.08016667,16.81058333,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+62,61,62,927,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,MALINALTEPEC,"Tierra Colorada-El Rincón, carretera Tlapa-San Luis Acatlán",994,-98.75175,17.04405556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+63,62,63,771,0,0,Tripsacum jalapense,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,La Coyota,1150,-93.13333333,16.81666667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+64,63,64,820,0,0,Tripsacum jalapense,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,La Coyota,1150,-93.13333333,16.81666667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+65,64,65,885,0,0,Tripsacum intermedium,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,Tuxtla Gutierrez,1270,-93.08269444,16.82875,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+66,65,66,886,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,Tuxtla Gutierrez,0,-93.08269444,16.82875,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+67,66,67,821,0,0,Tripsacum manisuroides,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,Los Chiapas,1200,-93.13333333,16.83333333,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+68,67,68,848,0,0,Tripsacum manisuroides,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,Los Chiapas,1200,-93.13333333,16.83333333,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+69,68,69,884,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,TUXTLA GUTIERREZ,Tuxtla Gutierrez,1335,-93.07475,16.83297222,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+70,69,70,910,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,COYUCA DE BENITEZ,Encino Prieto-Pueblo Viejo,369,-100.0214722,17.09536111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+71,70,71,962,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,HUIXTÁN,Km 62.5 carretera Tuxtla-Ocosingo (poblado El Progreso),1300,-92.13333333,16.8,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+72,71,72,963,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,SAN CRISTÓBAL DE LAS CASAS,Km 58 carretera 186 Tuxtla-Ocosingo (poblado El Progreso),1239,-92.11666667,16.81666667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+73,72,73,977,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,IXTAPA,"Km 244 carretera Villahermosa-Tuxtla Gutiérrez, a 2 km de Ixtapa",1008,-91.91441667,16.80763611,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+74,73,74,1022,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,APAXTLA,Entrada a Apaxtla 1.0 km antes,1187,-99.93794444,17.14102778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+75,74,75,383,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,JUAN R. ESCUDERO,Tierra Colorada,344,-99.54222222,17.17166667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+76,75,76,826,0,0,Tripsacum pilosum,Tripsacum,0,0,OAXACA,PUTLA VILLA DE GUERRERO,Chicahuaxtla,2000,-97.81666667,17.15,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+77,76,77,1011,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TIERRA COLORADA,"Tierra Colorada, km 59 después de Tierra Colorada",470,-99.51119444,17.19283333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+78,77,78,539,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,JUAN R. ESCUDERO,Km 60 Tierra Colorada-Chilpancingo,400,-99.50833333,17.19777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+79,78,79,1012,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TIERRA COLORADA,"La Hacienda, km 57, como 10 m antes de la desviación a La Haciendita, está en el km 54, ± 9 km después de Tierra Colorada.",503,-99.50772222,17.19830556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+80,79,80,616,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,CHIAPAS,ND,Ocosingo-16.2 Km suroeste de Ocosingo,1200,-92.08333333,16.9,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+81,80,81,540,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Buena Vista de la Salud,715,-99.5,17.25972222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+82,81,82,964,0,0,Tripsacum sp,Tripsacum,0,0,CHIAPAS,OCOSINGO,Km 135 carretera Tuxtla-Ocosingo (a 5 min de Ocosingo),1173,-92.1,16.96666667,SIERRAS DE CHIAPAS Y GUATEMALA,12,Sierras cañadas y llanuras de Chiapas,11,XI
+83,82,83,214,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLAN,El Rincón,820,-99.5,17.28333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+84,83,84,813,0,0,Tripsacum maizar,Tripsacum,0,0,GUERRERO,MOCHITLAN,El Rincón,950,-99.5,17.28333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+85,84,85,815,0,0,Tripsacum maizar,Tripsacum,0,0,GUERRERO,MOCHITLAN,El Rincón,950,-99.5,17.28333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+86,85,86,384,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,El Rincón (Rincón de la Vía),740,-99.48305556,17.28694444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+87,86,87,1013,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILPANCINGO/TIERRA COLORADA,"El Rincón unos 50 m hacia Chilpancingo, a 21 km de Tierra Colorada-Chilpancingo",763,-99.47855556,17.29627778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+88,87,88,1014,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA/CHILPANCINGO,"Paso Morelos, de 23 a 24 km de Tierra Colorada a Chilpancingo muy cerca de la entrada a Agua de Obispo",980,-99.47855556,17.29627778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+89,88,89,1015,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILPANCINGO,"Acahuizotla, 1 km antes de la desviación a Acahuizotla",944,-99.46677778,17.32541667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+90,89,90,783,0,0,Tripsacum intermedium,Tripsacum,0,0,GUERRERO,MOCHITLAN,Agua de Obispo,1000,-99.5,17.33333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+91,90,91,839,0,0,Tripsacum intermedium,Tripsacum,0,0,GUERRERO,MOCHITLAN,Agua de Obispo,1000,-99.5,17.33333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+92,91,92,866,0,0,Tripsacum intermedium,Tripsacum,0,0,GUERRERO,MOCHITLAN,Agua de Obispo,1000,-99.5,17.33333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+93,92,93,57,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLAN,Acahuizotla,1100,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+94,93,94,782,0,0,Tripsacum intermedium,Tripsacum,0,0,GUERRERO,MOCHITLAN,Acahuizotla,970,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+95,94,95,812,0,0,Tripsacum maizar,Tripsacum,0,0,GUERRERO,MOCHITLAN,Acahuizotla,1000,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+96,95,96,834,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,GUERRERO,MOCHITLAN,Acahuizotla,850,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+97,96,97,843,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,GUERRERO,MOCHITLAN,Acahuizotla,850,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+98,97,98,853,0,0,Tripsacum intermedium,Tripsacum,0,0,GUERRERO,MOCHITLAN,Acahuizotla,950,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+99,98,99,854,0,0,Tripsacum intermedium,Tripsacum,0,0,GUERRERO,MOCHITLAN,Acahuizotla,970,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+100,99,100,877,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,GUERRERO,MOCHITLAN,Acahuizotla,850,-99.48333333,17.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+101,100,101,918,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,TECPAN DE GALEANA,Arroyo de la Ordeña-Ejido Moreno,219,-100.5850833,17.37763889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+102,101,102,385,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Brecha Acahuizotla-Palo Blanco (ca. Posada de la Paz),932,-99.45722222,17.37555556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+103,102,103,1016,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILPANCINGO,"Acahuizotla, camino terracería Acahuizotla-Palo Blanco, ± 3.0 km después de Acahuizotla",932,-99.45072222,17.37558333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+104,103,104,181,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Km 2 Palo Blanco-Acapulco,1167,-99.46666667,17.38333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+105,104,105,386,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Posada de la Paz-Palo Blanco,1044,-99.45305556,17.38944444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+106,105,106,1017,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA/CHILPANCINGO,"Paso Morelos, a 2 km antes de llegar a Palo Alto de Acahuizotla",1100,-99.46369444,17.3935,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+107,106,107,387,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLÁN,El Salado (Amate Amarillo),1150,-99.43666667,17.39666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+108,107,108,58,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Palo Blanco,1260,-99.46666667,17.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+109,108,109,212,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,"Palo Blanco, El Guamuchil",1260,-99.46666667,17.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+110,109,110,182,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLAN,El Salado,1132,-99.4,17.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+111,110,111,238,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLAN,El Salado,1150,-99.4,17.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+112,111,112,388,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLÁN,Ahuehuetzingo,1121,-99.44305556,17.40694444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+113,112,113,381,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,QUECHULTENANGO,Colotlipa,815,-99.17666667,17.40861111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+114,113,114,213,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,"Mazatlán, Ahuehuetzingo",1180,-99.43333333,17.41666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+115,114,115,536,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,QUECHULTENANGO,Colotlipa-Cascamila,817,-99.22277778,17.41916667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+116,115,116,535,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,QUECHULTENANGO,Crucero Colotlipa-Balneario Santa Fe,870,-99.2025,17.42,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+117,116,117,56,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Mazatlán,1350,-99.46666667,17.43333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+118,117,118,380,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,QUECHULTENANGO,Camino Vista Hermosa-Colotlipa (Barranca La Cañada),940,-99.20138889,17.43777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+119,118,119,929,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,ATLIXTAC,Mesones-Tlaltlaquitepec,1513,-98.61616667,17.42733333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+120,119,120,379,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,QUECHULTENANGO,Camino Vista Hermosa-Colotlipa (Barranca La Cañada),1020,-99.20972222,17.45388889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+121,120,121,1010,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,COLOTLIPA,"Colotlipa, km 24 Santa Ana- Colotlipa",1070,-99.21430556,17.45977778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+122,121,122,537,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLÁN,Coatomatitlán (Coba Blanca),950,-99.31861111,17.46777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+123,122,123,538,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLÁN,Monte Alegre-crucero a Coatomatitlán,1050,-99.31527778,17.47277778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+124,123,124,934,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,ALCOZAUCA DE GUERRERO,Alcozauca,1760,-98.40255556,17.46233333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+125,124,125,382,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,MOCHITLÁN,Tepechicotlán-Mochitlán,1032,-99.39388889,17.48416667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+126,125,126,919,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,MALINALTEPEC,Tlapa (Chimalacatla)-Malinaltepec,1476,-98.61813889,17.48216667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+127,126,127,907,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LEONARDO BRAVO,"Las Joyitas-Tierra Colorada, Chichihualco",1196,-99.79952778,17.50672222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+128,127,128,1009,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,COLOTLIPA,"Vista Hermosa, muy cercana a la colecta 17",1264,-99.22672222,17.50730556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+129,128,129,1008,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,COLOTLIPA,"Vista Hermosa, km 19 Santa Ana-Colotlipa (unos kms antes de Vista Hermosa)",1410,-99.22322222,17.51111111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+130,129,130,930,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,XALPATLAHUAC,Xalpatlahuac (entrada),1523,-98.61683333,17.50411111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+131,130,131,914,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,Teloloapan-Tlajocotla,982,-99.18922222,17.51758333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+132,131,132,932,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,COPANATOYAC,Ayotzinapa-Cacahuatepec,1377,-98.76283333,17.51761111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+133,132,133,1007,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA DE ÁLVAREZ,"Santa Ana, km 15 Santa Ana (Chilapa) a Colotlipa",1639,-99.22008333,17.52716667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+134,133,134,1036,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,ZUMPANGO,"Huixiltepec, entrada a Chilpancingo de Chilapa 55 kms.",1370,-99.48372222,17.54897222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+135,134,135,931,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,COPANATOYAC,Ayotzinapa-Cacahuatepec,1367,-98.76888889,17.53586111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+136,135,136,940,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,TLAPA DE COMONFORT,Tlapa-Axuxuca,1351,-98.59363889,17.53425,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+137,136,137,1035,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILPANCINGO,Km 50 Chilapa-Chilpancingo cerca de una estación de Microondas,1645,-99.46041667,17.55175,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+138,137,138,1034,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILPANCINGO,"Tixtla, km 46 Chilapa a Chilpancingo antes de un puente",550,-99.43516667,17.55286111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+139,138,139,1033,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TIXTLA DE GUERRERO,Km 4 hacia Chilpancingo después de la entrada a Ayotzinapa,1435,-99.41355556,17.55408333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+140,139,140,905,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Chilpancingo-Amojileca,1410,-99.52758333,17.55625,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+141,140,141,941,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,ATLIXTAC,Tlatlautitepec-Atlixtac,1892,-98.83091667,17.54330556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+142,141,142,1003,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,HUITZUCO/ATLIXTAC,"Paso Morelos, km 2 salida a Atlixtac-Mesones, a 33 km de Tlatlauquitepec a Chilapa",1653,-98.92344444,17.54805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+143,142,143,936,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,TLAPA DE COMONFORT,Tepozonalco-Atlixtac,1575,-98.6915,17.54436111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+144,143,144,921,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,COPANATOYAC,Ayotzinapa-Cacahuatepec,1212,-98.75877778,17.55008333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+145,144,145,906,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILPANCINGO DE LOS BRAVO,Chilpancingo-Amojileca,1679,-99.55227778,17.56605556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+146,145,146,1028,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA,"El Peral, 1.0 km después de Santa Ana hacia Chilpancingo. Se extiende ± 3.0 km hasta Tenexatlajo",1570,-99.22722222,17.56086111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+147,146,147,1029,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA DE ÁLVAREZ,"Zoquiapa, 1.0 km delante de Zoquiapa viniendo de Chilapa",1570,-99.22722222,17.56086111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+148,147,148,1030,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA DE ÁLVAREZ,"Almoloya, Chilapa-Chilpancingo Crucero de Almoloya",1900,-99.27497222,17.56675,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+149,148,149,811,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,CHILAPA DE ALVAREZ,El Peral,1500,-99.21666667,17.56666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+150,149,150,823,0,0,Tripsacum intermedium,Tripsacum,0,0,GUERRERO,PETATLAN,Pozo Largo,1950,-99.01666667,17.56666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+151,150,151,1001,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TLATLAUQUITEPEC,Km 6 Tlatlauquitepec-Tres caminos,1913,-98.78686111,17.57083333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+152,151,152,933,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,ATLIXTAC,"Ayotzinapa, entrada carretera vieja",1333,-98.15269444,17.55977778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+153,152,153,835,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,CHILAPA DE ALVAREZ,Lamasinta,1500,-99.1,17.58333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+154,153,154,1005,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,ATLIXTAC,"Tepozonalco, km 69 después de Tlatlauquitepec-Chilapa",1598,-99.01908333,17.58447222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+155,154,155,1004,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,ALIXTAC,"Petatlán, km 52 de Tlatlaquitepec a Petatlán",1325,-99.00444444,17.58758333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+156,155,156,1006,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA DE ÁLVAREZ,"Xochimilco, salida a Chilapa-Chilpancingo",1450,-99.20458333,17.59372222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+157,156,157,1032,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TIXTLA DE GUERRERO,"Ayotzinapa, a 30 km de Chilapa de la carretera Chilapa-Chipancingo",1590,-99.32997222,17.59722222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+158,157,158,1031,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TIXTLA DE GUERRERO,Colonia Guerrero,1715,-99.31011111,17.60183333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+159,158,159,916,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA DE ALVAREZ,Santa Cruz-Ahuacotzingo,1628,-99.138,17.63711111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+160,159,160,920,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,CHILAPA DE ALVAREZ,Acatlán-Chilapa,1441,-99.16675,17.64008333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+161,160,161,915,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA DE ALVAREZ,Santa Cruz-Ahuacotzingo,1686,-99.13697222,17.64097222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+162,161,162,768,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Platanal,950,-99.51666667,17.68333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+163,162,163,1037,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,IGUALA DE LA INDEPENDENCIA,"Platanillo, 5.0 km antes de la desviación a Huixiltepec",980,-99.53388889,17.69005556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+164,163,164,917,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,CHILAPA DE ALVAREZ,Santa Cruz-Ahuacotzingo,1637,-99.07102778,17.68330556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+165,164,165,865,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,IGUALA DE LA INDEPENDENCIA,Cañon del Zopilote,795,-99.56113889,17.74075,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+166,165,166,938,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,CUALAC,Olinalá-Cualac (después Chaucingo),1432,-98.67475,17.72619444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+167,166,167,1000,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,OLINALÁ,"Libertad, crucero a Libertad, carretera Olinalá-Tlatlahuiquitepec (Tres Caminos)",1520,-98.76444444,17.74238889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+168,167,168,939,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,CUALAC,Cualac-Huamuxtitlán,1550,-98.62891667,17.74841667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+169,168,169,377,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,OLINALÁ,Vista Hermosa (La Lobera),1580,-98.77444444,17.76027778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+170,169,170,804,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Milpillla,750,-99.58333333,17.78333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+171,170,171,909,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LEONARDO BRAVO,"La Laguna-Mirabal Filo de Caballo, Chichihualco",1514,-99.69319444,17.78522222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+172,171,172,937,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,ATLIXTAC,Tepozonalco-Atlixtac,1235,-98.71538889,17.768,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+173,172,173,378,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,OLINALÁ,Camino Vista Hermosa-Olinalá,1497,-98.76444444,17.77361111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+174,173,174,908,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LEONARDO BRAVO,"Iguala-Xochipala-La Laguna, Chichihualco",1190,-99.66891667,17.80691667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+175,174,175,718,0,0,Tripsacum latifolium,Tripsacum,0,0,OAXACA,SAN JUAN BAUTISTA VALLE NACIONAL,San Mateo Yetla,400,-96.32111111,17.7425,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+176,175,176,773,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+177,176,177,775,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+178,177,178,776,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+179,178,179,777,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+180,179,180,778,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+181,180,181,779,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+182,181,182,780,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+183,182,183,781,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+184,183,184,849,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,EDUARDO NERI,Venta Vieja,650,-99.58333333,17.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+185,184,185,863,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,IGUALA DE LA INDEPENDENCIA,Cañon del Zopilote,615,-99.56725,17.83552778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+186,185,186,864,0,0,Tripsacum zopilotense,Tripsacum,0,0,GUERRERO,IGUALA DE LA INDEPENDENCIA,Cañon del Zopilote,615,-99.56725,17.83552778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+187,186,187,900,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"Mesas de Bravo, carretera Zihuatanejo-Cd. Altamirano, Zihuatanejo",401,-101.3508333,17.88297222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+188,187,188,901,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"Vallecitos de Zaragoza, carretera Zihuatanejo-Cd. Altamirano, Zihuatanejo",679,-101.3500556,17.88519444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+189,188,189,903,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"uerto El Bálsamo-Puente El Halcón, Carretera Zihuatanejo-Cd. Altamirano, Zihuatanejo",1654,-101.1981111,17.97669444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+190,189,190,899,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"Puente del Perico, en la carretera Zihuatanejo-Altamirano, Zihuatanejo",419,-101.8066667,17.98297222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+191,190,191,898,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"Puentes Terreros, Zihuatanejo-Cd. Altamirano, Zihuatanejo",322,-101.3508333,17.98297222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+192,191,192,902,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"Vallecitos-Puerto El Bálsamo, Carretera Zihuatanejo-Cd. Altamirano, Zihuatanejo",1442,-101.2374444,17.98808333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+193,192,193,999,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,OLINALÁ,"Olinalá, km 26 carretera Papalutla-Olinalá (más o menos 4 km)",1681,-98.85094444,17.95756111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+194,193,194,904,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"Barranca de los Machos-Puente Aguacate, km. 68-69 carretera Zihuatanejo-Cd. Altamirano, Zihuatanejo",1180,-101.1608056,18.00383333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+195,194,195,998,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,OLINALÁ,"Chichila, km 22 Papalutla-Olinala",1605,-98.86305556,17.99666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+196,195,196,997,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,OLINALÁ,"Desviación Tecolapa, ya para llegar al puerto donde se desvía a Tecolapa o Chichila (km 16 Papalutla-Olinalá)",1372,-98.86313889,17.99686111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+197,196,197,996,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,"Paso Morelos, km 10 carretera Papalutla-Olinalá",1238,-98.86616667,17.99783333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+198,197,198,491,0,0,NA,Zea mays subsp. Mexicana,0,0,OAXACA,SAN FELIPE USILA,Arroyo Tambor,80,-96.46833333,17.935,SIERRA MADRE DEL SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+199,198,199,935,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,COPALILLO,Tecolapa,1519,-98.83438889,18.00697222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+200,199,200,1026,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,"Caracol, km 53",1325,-99.99936111,18.02972222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+201,200,201,995,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,"Paso Morelos, Papalutla-Olinalá 5 km",910,-98.88519444,18.01777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+202,201,202,994,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,COPALILLO,"Papalutla, Papalutla-Olinalá 5 km",810,-98.88519444,18.019,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+203,202,203,1025,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,APAXTLA,"Caracol, km 49.5 Apaxtla-Caracol",1418,-99.99486111,18.04566667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+204,203,204,1024,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,APAXTLA,"Caracol, km 47 a 2.0 km de la anterior hacia el \Caracol\""""",1294,-99.97147222,18.05391667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+205,204,205,993,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,COPALILLO,"Papalutla, carretera Copalillo-Papalutla, 4 km antes de llegar a Papalutla",770,-98.92194444,18.04513889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+206,205,206,1023,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,APAXTLA,"Caracol, km 45 unos 5.0 km después de Apaxtla hacia el \Caracol\""""",1314,-99.96608333,18.06513889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+207,206,207,897,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,LA UNION DE ISIDORO MONTES DE OCA,"Puente Parado, carretera Zihuatanejo-Cd. Altamirano, Zihuatanejo",616,-100.9408333,18.09341667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+208,207,208,716,0,0,Tripsacum laxum,Tripsacum,0,0,OAXACA,SAN JUAN BAUTISTA TUXTEPEC,Tuxtepec,75,-96.15,18,LLANURA COSTERA DEL GOLFO SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+209,208,209,924,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,TELOLOAPAN,Oxtotilán-Xochipala,1350,-99.88980556,18.11244444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+210,209,210,925,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,TELOLOAPAN,Xochipala-Santa Cruz,1527,-99.88980556,18.11244444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+211,210,211,926,0,0,Tripsacum pilosum,Tripsacum,0,0,GUERRERO,TELOLOAPAN,El Potrero,1403,-99.54877778,18.10936111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+212,211,212,846,0,0,Tripsacum laxum,Tripsacum,0,0,OAXACA,SAN JOSE CHILTEPEC,Fapatux,50,-96.16666667,18.03333333,LLANURA COSTERA DEL GOLFO SUR,10,Sierras y valles de Oaxaca y Tehuantepec,10,X
+213,212,213,399,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Oxtotitlán (Km 30 Teloloapan-Apaxtla de Castrejón),1098,-99.93333333,18.17805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+214,213,214,548,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,APAXTLA,Colonia Emiliano Zapata,1060,-99.91833333,18.21472222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+215,214,215,398,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Km 22 Teloloapan-Apaxtla de Castrejón,1088,-99.91583333,18.22666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+216,215,216,187,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Paso Morelos,1092,-99.2,18.21666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+217,216,217,375,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Paso Morelos,1096,-99.21333333,18.23194444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+218,217,218,534,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Km 1 San Miguel de las Palmas-Paso Morelos,1110,-99.20138889,18.23722222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+219,218,219,992,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,"Paso Morelos, carretera Huitzuco-Paso Morelos, km 38 Huitzuco-Atenango del Río",1146,-99.22180556,18.24083333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+220,219,220,765,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Km. 32,1150,-99.26666667,18.25,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+221,220,221,766,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Km. 32,1150,-99.26666667,18.25,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+222,221,222,767,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Km. 32,1150,-99.26666667,18.25,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+223,222,223,793,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Km. 32,1150,-99.26666667,18.25,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+224,223,224,184,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Plan de los Timbres,1215,-99.21666667,18.25,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+225,224,225,185,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,San Miguel Palmas,1173,-99.2,18.25,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+226,225,226,186,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Llano de Villegas,1160,-99.2,18.25,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+227,226,227,374,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Plan de los Timbres (ca. Paso Morelos Carr. Gro 1),1183,-99.23361111,18.2525,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+228,227,228,376,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Llano de Villegas (cerca San Miguel de las  Palmas),1162,-99.2125,18.26,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+229,228,229,115,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,"Plan de los Timbres, Paso Morelos",1225,-99.18333333,18.28333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+230,229,230,373,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,HUITZUCO DE LOS FIGUEROA,Km 1 Huitzuco-Paso Morelos,963,-99.3025,18.28666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+231,230,231,61,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Km 55 Iguala-Teloloapan,1500,-99.8,18.31666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+232,231,232,1027,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,"Acatempa, km 7.5 Teloloapan-Apaxtla",1569,-99.99936111,18.32397222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+233,232,233,116,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,GENERAL CANUTO A. NERI,"Acapetlahuaya-El Crustel, Km 44-47 Teloloapan-Arcelia",970,-100.1166667,18.33333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+234,233,234,216,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,IXCATEOPAN DE CUAUHTEMOC,Ahuacatitlan,1640,-99.8,18.33333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+235,234,235,923,0,0,Tripsacum maizar,Tripsacum,0,0,GUERRERO,APAXTLA,Oxtotilán-San Felipe del Ocote,1331,-99.55941667,18.33258333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+236,235,236,922,0,0,Tripsacum maizar,Tripsacum,0,0,GUERRERO,APAXTLA,Oxtotilán-San Felipe del Ocote,1629,-99.54275,18.33294444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+237,236,237,62,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,"Rincón del Sauce, Km 59 Iguala-Teloloapan",1560,-99.83333333,18.35,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+238,237,238,543,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Rincón del Sauce,1624,-99.84138889,18.35027778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+239,238,239,188,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,GENERAL CANUTO A. NERI,Acapetlahuaya-Km 1 El Crustel-Teloloapan,985,-100.1333333,18.36666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+240,239,240,65,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,GENERAL CANUTO A. NERI,"Acapetlahuaya-Villa de Ayala, Km 28 Teloloapan-Arcelia",1500,-100.0333333,18.36666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+241,240,241,1021,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,"Sabinos, km 48.5 carretera Iguala-Teloloapan",1280,-99.94016667,18.37497222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+242,241,242,447,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Crucero El Guamuchil (Carr. Teloloapan-Arcelia),1340,-99.97666667,18.37611111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+243,242,243,389,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,GENERAL CANUTO A. NERI,El Cruztel,987,-100.1416667,18.38361111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+244,243,244,66,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,GENERAL CANUTO A. NERI,"Acapetlahuaya-Amates Grandes, Km 40 Teloloapan-Arcelia",1150,-100.0666667,18.38333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+245,244,245,218,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,GENERAL CANUTO A. NERI,"Acapetlahuaya-Km 38 Teloloapan-Arcelia, casi El Texcal",1200,-100.0666667,18.38333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+246,245,246,117,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,Ixcapuzalco-Zacatlancillo,1720,-99.96666667,18.38333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+247,246,247,390,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,GENERAL CANUTO A. NERI,Crucero Amates Grandes,1077,-100.1288889,18.38583333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+248,247,248,837,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TELOLOAPAN,Totoapa,1050,-99.68333333,18.38333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+249,248,249,852,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TELOLOAPAN,Totoapa,1050,-99.68333333,18.38333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+250,249,250,1053,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,IXCAPUZALCO,"Pochote, desviación Pachivia-Ixcapuzalco a 3.5 km",1610,-99.86680556,18.38636111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+251,250,251,1039,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,BUENA VISTA DE CUELLAR,"Buena Vista, km 52 hacia Platanillo, carretera México-Cuernavaca",1037,-99.49594444,18.38558333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+252,251,252,1049,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,"Xaloctoc, km 26 de carretera Iguala-Teloloapan",1094,-99.6795,18.38927778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+253,252,253,541,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Villa de Ayala,1680,-100.0297222,18.39638889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+254,253,254,1018,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,ACAPETLAHUAYA,Ceibitas,1383,-100.0849444,18.40005556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+255,254,255,1038,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,IGUALA DE LA INDEPENDENCIA,"Platanillo, km 54 Iguala a Cuernavaca ± 1.0 km después de Platanillo.",898,-99.49694444,18.39211111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+256,255,256,64,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,"Ixcapuzalco-Ranchos Nuevos, Km 25 Teloloapan-Arcelia",1620,-99.96666667,18.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+257,256,257,867,0,0,Tripsacum bravum,Tripsacum,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,Rancho Nuevo,1600,-99.96666667,18.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+258,257,258,63,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,"Alcholoa, Km 11 Teloloapan-Arcelia",1465,-99.9,18.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+259,258,259,217,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,"Alcholoa, Km 11 Teloloapan-Arcelia",1450,-99.9,18.4,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+260,259,260,542,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Alpixafia,1457,-99.8975,18.40694444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+261,260,261,748,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,Teloloapan,1577,-100.0097222,18.40861111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+262,261,262,1019,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,ACAPETLAHUAYA,"Rancho Nuevo, saliendo de Rancho Nuevo a Arcelia (unos 500 m)",1585,-100.0093611,18.40944444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+263,262,263,448,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,"Ranchos Nuevos, Camino Cacahuatlán-Lidice",1640,-100.0061111,18.41638889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+264,263,264,391,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,"Zacatlancillo (km 80 Carr. 51, cerro El Chivo)",1746,-99.9675,18.41666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+265,264,265,547,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Km 68 Iguala-Arcelia,1700,-99.87361111,18.41666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+266,265,266,392,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Km 72.5 Iguala-Arcelia (Ca. Alcholoa),1560,-99.92138889,18.41777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+267,266,267,747,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,IXCATEOPAN DE CUAUHTEMOC,Xalostoc,1577,-99.75,18.41666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+268,267,268,1050,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,"Km 32 Iguala-Teloloapan, 2 km antes de Xalostoc",1335,-99.71297222,18.42052778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+269,268,269,1020,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,IXCAPUZALCO,"Pochote, a 3 km después del Pochote",1648,-99.94016667,18.42480556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+270,269,270,395,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,TELOLOAPAN,Km 1 El Pochote-Ixcapuzalco,1637,-99.93972222,18.42722222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+271,270,271,1051,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,Km 35.5 Iguala-Teloloapan,1445,-99.73841667,18.43097222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+272,271,272,1052,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,2 km después de Teloloapan,1540,-99.73716667,18.43213889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+273,272,273,1048,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TELOLOAPAN,De 2 a 3 km después de Mezcaltepec hacia Taxco,1120,-99.62991667,18.43375,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+274,273,274,769,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCON,Campusano,1150,-99.58333333,18.43333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+275,274,275,800,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCON,Campusano,1150,-99.58333333,18.43333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+276,275,276,1040,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,AMACUZAC,"Casahuatlán, km 41 Buenavista de Cuellar-Iguala, delante de la quebradora 1.0 km carretera Iguala-Cuernavaca km 41",1100,-99.46480556,18.44077778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+277,276,277,60,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,IXCATEOPAN DE CUAUHTEMOC,Km 7 Ixcateopan-Pachivia,1500,-99.8,18.46666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+278,277,278,400,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TLATLAYA,Colonia Moctezuma (km 23 Arcelia-Amatepec),870,-100.2261111,18.485,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+279,278,279,544,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,Crucero a Llano de la Merced,1707,-99.89805556,18.49277778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+280,279,280,397,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,IXCATEOPAN DE CUAUHTÉMOC,Km 1 Ixcateopan-Pachivia,1730,-99.79222222,18.4925,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+281,280,281,545,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,Llano de la Merced-Ixcapaneca (km 1),1585,-99.90416667,18.49666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+282,281,282,394,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,Llano de la Merced-Ixcapaneca (km 2),1524,-99.90944444,18.5,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+283,282,283,215,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,IXCATEOPAN DE CUAUHTEMOC,"Ixcateopan, La Tranca",1920,-99.8,18.5,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+284,283,284,59,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,IXCATEOPAN DE CUAUHTEMOC,"Ixcateopan, La Tranca",1795,-99.78333333,18.5,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+285,284,285,183,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,IXCATEOPAN DE CUAUHTEMOC,Ixcateopan,1890,-99.78333333,18.5,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+286,285,286,396,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,IXCATEOPAN DE CUAUHTÉMOC,Ixcateopan (salida a Taxco),1891,-99.78444444,18.50444444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+287,286,287,393,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,PEDRO ASENCIO ALQUISIRAS,Ixcapuzalco (Piedras Anchas),1720,-99.89166667,18.51833333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+288,287,288,770,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCON,Minas Viejas,1450,-99.6,18.51666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+289,288,289,814,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCON,Minas Viejas,1450,-99.6,18.51666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+290,289,290,862,0,0,Tripsacum bravum,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCON,Taxco,1520,-99.60369444,18.51952778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+291,290,291,549,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TLATLAYA,Cruz del Norte,1000,-100.2336111,18.545,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+292,291,292,403,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TLATLAYA,Cuadrilla Nueva (ca. San Pedro Limón),651,-100.3319444,18.55222222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+293,292,293,401,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TLATLAYA,Santa Ana Zicatecoyan (Col de la Papaya),1026,-100.2230556,18.56222222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+294,293,294,550,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TLATLAYA,Corral de Piedra,1100,-100.2405556,18.56944444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+295,294,295,860,0,0,Tripsacum bravum,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCON,Taxco,1805,-99.59569444,18.57269444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+296,295,296,861,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCON,Taxco,1805,-99.59569444,18.57269444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+297,296,297,1041,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,MICHAPA,"Grutas, 1 km después del Cristo, Morelos antes de Casahuatlán y muy cerca de Amacuzac",1120,-99.40233333,18.57044444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+298,297,298,1047,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCÓN,"Mezcaltepec, después de la caseta del libramiento a Taxco, en una cárcava en ambos lados de la carretera",1750,-99.57586111,18.58388889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+299,298,299,1046,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCÓN,0.5 km antes de llegar a la desviación a Cuernavaca y Taxco,1187,-99.51441667,18.59255556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+300,299,300,402,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TLATLAYA,Las Parotas-San Francisco de Asís,834,-100.2719444,18.61027778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+301,300,301,552,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,AMATEPEC,Palmar Chico-El Aguacate,810,-100.3833333,18.63333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+302,301,302,80,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,7 Km sur Palmar Chico,980,-100.35,18.63333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+303,302,303,196,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,Km 8 sur de Palmar Chico,849,-100.35,18.63333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+304,303,304,404,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,AMATEPEC,Huixtitla,1008,-100.3566667,18.64055556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+305,304,305,1045,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCÓN,Km 117 después de Cacahuamilpa a Taxco,1187,-99.51441667,18.66675,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+306,305,306,1043,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCÓN,"Mogote, 2 km antes de llegar a las grutas de Cacahuamilpa por Michapa",1158,-99.49569444,18.66816667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+307,306,307,81,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,Palmar Chico,980,-100.4,18.68333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+308,307,308,219,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,Palmar Chico,940,-100.4,18.68333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+309,308,309,1044,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCÓN,"Cacahuamilpa, carretera Toluca-Iguala del Mogote a Cacahuamilpa, km 110 ± hasta km 114, termina al llegar a Cacahuamilpa que ésta en el km 115",1475,-99.53441667,18.68233333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+310,309,310,551,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,AMATEPEC,Palmar Chico (Cerro al Oeste),800,-100.3683333,18.69444444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+311,310,311,82,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,El Aguacate,1100,-100.3166667,18.7,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+312,311,312,220,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,El Aguacate,1100,-100.3166667,18.7,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+313,312,313,1042,0,0,Tripsacum sp,Tripsacum,0,0,GUERRERO,TAXCO DE ALARCÓN,"Cacahuamilpa, ± 2.0 km después de Michapa hacia las grutas de Cacahuamilpa",1166,-99.48613889,18.68866667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+314,313,314,67,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,"La Tiringucha, Km 18 Huetamo-Morelia",670,-100.9666667,18.71666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+315,314,315,83,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,Pueblo Nuevo-El Sitio,1100,-100.3166667,18.75,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+316,315,316,411,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,AMATEPEC,Km 6 Pueblo Nuevo-El Sitio (San Lucas Pueblo Nuevo),737,-100.3102778,18.76138889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+317,316,317,553,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,AMATEPEC,El Sitio-El Jumate,745,-100.3052778,18.77277778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+318,317,318,150,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Crucero Puertas de Chiripio,653,-100.9333333,18.78333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+319,318,319,191,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,"Crucero San Juan Tizapán, cerca Las Anonas",808,-100.3333333,18.78333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+320,319,320,564,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,Las Anonas,729,-100.3638889,18.78861111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+321,320,321,149,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,"Quenchendio, Km 151.5 Zitácuaro-Huetamo",635,-100.9333333,18.8,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+322,321,322,92,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,Las Anonas,980,-100.3833333,18.8,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+323,322,323,414,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Quenchendio,631,-100.9461111,18.805,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+324,323,324,195,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,AMATEPEC,Km 132 Toluca-Altamirano,849,-100.2833333,18.8,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+325,324,325,285,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Quenchendio,655,-100.9541667,18.80888889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+326,325,326,93,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,"Quenchendio, Km 24 Huetamo-Morelia",740,-100.9666667,18.81666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+327,326,327,148,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,"El Potrero, Km 145.5 Zitácuaro-Huetamo",654,-100.9,18.81666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+328,327,328,412,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,AMATEPEC,Km 130 Toluca-Altamirano (ca. Pinzanes),815,-100.2983333,18.81138889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+329,328,329,224,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Eréndira,710,-100.9,18.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+330,329,330,284,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Eréndira,647,-100.9363889,18.83416667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+331,330,331,288,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Eréndira,1219,-100.9363889,18.83416667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+332,331,332,192,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,Salitre-Monte de Dios,958,-100.2333333,18.83333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+333,332,333,563,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,Km 118-119 Tejupilco-Altamirano,955,-100.2386111,18.84277778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+334,333,334,94,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLAS ROMERO,"Las Juntas, Km 43 Huetamo-Morelia",720,-100.9,18.85,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+335,334,335,20,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLAS ROMERO,"La Crucita, Km 135 Zitácuaro-Huétamo",609,-100.85,18.85,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+336,335,336,19,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLAS ROMERO,"El Guayabo, Km 132.5 Zitácuaro-Huetamo",555,-100.8333333,18.85,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+337,336,337,444,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,ex-Hacienda San Miguel Ixtapan (Carretera a Amatepec),1257,-100.1627778,18.84611111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+338,337,338,194,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,Km 119 Toluca-Altamirano,1015,-100.2333333,18.85,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+339,338,339,410,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,"Km 116, Toluca-Altamirano (Plaza de Gallos-Las Juntas)",1012,-100.2388889,18.85388889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+340,339,340,441,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,La Barranca de Ixtapan(Camino de Terracería),1229,-100.1630556,18.85777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+341,340,341,151,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CARACUARO,"Cuirindalillo, Km 142 Huetamo-Carácuaro",697,-100.95,18.86666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+342,341,342,282,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Peña Prieta,540,-100.8725,18.86694444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+343,342,343,283,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUETAMO,Peña Prieta,540,-100.8725,18.86694444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+344,343,344,442,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,Santa Rosa (Ejido),1280,-100.1511111,18.86805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+345,344,345,831,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,GUERRERO,TETIPAC,Cacahuamilpa,1600,-99.78333333,18.86666667,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+346,345,346,95,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLAS ROMERO,"La Ceibita, Km 50 Huetamo-Morelia",660,-100.8166667,18.88333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+347,346,347,280,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,La Ceibita,540,-100.8433333,18.88444444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+348,347,348,281,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,La Ceibita,540,-100.8433333,18.88444444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+349,348,349,279,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,El Rodeo,543,-100.7922222,18.88805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+350,349,350,79,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,"Las Juntas, Km 16 Tejupilco-Bejucos",1200,-100.25,18.88333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+351,350,351,193,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,Km 112 Toluca-Altamirano,1355,-100.2,18.88333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+352,351,352,413,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,LUVIANOS,El Estanco,1140,-100.23,18.88777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+353,352,353,409,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,Km 109-110 Tejupilco-Altamirano (Cuadrilla de Leones),1357,-100.2088889,18.89472222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+354,353,354,78,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,"La Cabecera, Km 8 Tejupilco-Bejucos",1320,-100.2,18.9,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+355,354,355,562,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,TEJUPILCO,Km 104.5 Tejupilco-Altamirano,1447,-100.1719444,18.90111111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+356,355,356,152,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CARACUARO,"El Zapote, Km 122 Huetamo-Carácuaro",915,-101.0333333,18.93333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+357,356,357,845,0,0,Tripsacum laxum,Tripsacum,0,0,VERACRUZ DE IGNACIO DE LA LLAVE,FORTIN,Cuauatlapan,1100,-97.05,18.86666667,EJE NEOVOLCÁNICO,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+358,357,358,77,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,MALINALCO,Malinalco,1850,-99.5,18.95,SIERRA MADRE DEL SUR,5,Mesa Central,7,VII
+359,358,359,598,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,MALINALCO,Ruinas de Malinalco,1882,-99.50166667,18.95361111,SIERRA MADRE DEL SUR,5,Mesa Central,7,VII
+360,359,360,264,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CARÁCUARO,Puerto de la Cruz,675,-101.0627778,18.97166667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+361,360,361,801,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MORELOS,YAUTEPEC,Cañón de Lobos,1200,-99.15,18.95,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+362,361,362,239,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,CHALCHICOMULA DE SESMA,Santa Inés 4 Km noroeste Cd. Serdán,2600,-97.45,18.91666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+363,362,363,84,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,"El Puerto, Km 18 Luvianos-Zacazo",1180,-100.3166667,18.98333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+364,363,364,221,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,ZACAZONAPAN,Km 9 Zacazonapan-Luvianos,1200,-100.3166667,18.98333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+365,364,365,89,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MORELOS,TEPOZTLAN,"Amatlán, La Puerta",1580,-99.03333333,18.96666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+366,365,366,352,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MORELOS,TEPOZTLÁN,Camino Amatlán-Huilotepec (Col. El Carmen),1684,-99.05416667,18.97055556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+367,366,367,515,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MORELOS,TEPOZTLÁN,Huilotepec,1659,-99.07166667,18.97444444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+368,367,368,599,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MORELOS,TEPOZTLÁN,Amatlán de Quetzalcóatl (La Puerta),1646,-99.03,18.975,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+369,368,369,725,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,COLIMA,TECOMAN,Tecomán,253,-103.7833333,19.01666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+370,369,370,197,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,TEJUPILCO,"Km 22 Zacazonapan-Luvianos, El Puente",1085,-100.2833333,19.03333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+371,370,371,408,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,ZACAZONAPAN,Salitre del Puente,1000,-100.3005556,19.03611111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+372,371,372,51,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TEPETLIXPA,Tepetlixpa,2320,-98.83333333,19.01666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+373,372,373,271,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,El Limón de Papatzindan,568,-100.7508333,19.04666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+374,373,374,277,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,El Limón de Papatzindan,631,-100.7508333,19.04666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+375,374,375,278,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,El Limón de Papatzindan,631,-100.7508333,19.04666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+376,375,376,189,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,NOCUPETARO,"La Cadena, Km 93 Huetamo-Villa Madero",759,-101.2,19.05,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+377,376,377,190,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,NOCUPETARO,Puente Petembo,672,-101.1833333,19.05,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+378,377,378,561,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,ZACAZONAPAN,El Puerto (La Cañada),1220,-100.2838889,19.045,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+379,378,379,568,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,El Limón de Papatzindan de Romero,620,-100.7580556,19.04972222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+380,379,380,445,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,ZACAZONAPAN,Santa María (junto al rio en el potrero),1207,-100.2708333,19.04888889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+381,380,381,750,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,ZACAZONAPAN,San Pedro Tenayac,1527,-100.2,19.05,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+382,381,382,749,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,TEMASCALTEPEC,Temascaltepec,1896,-100.05,19.05,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+383,382,383,260,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,NOCUPÉTARO,El Palmito,747,-101.2002778,19.06805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+384,383,384,258,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,NOCUPÉTARO,La Angostura,1047,-101.32,19.06916667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+385,384,385,560,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,ZACAZONAPAN,El Potrero (ca. Santa María),1180,-100.2844444,19.06388889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+386,385,386,261,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,NOCUPÉTARO,Petembo,679,-101.1919444,19.07166667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+387,386,387,259,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,NOCUPÉTARO,Charco Verde,833,-101.2927778,19.07222222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+388,387,388,198,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,ZACAZONAPAN,Km 2 Zacazonapan-Otzoloapan,1468,-100.25,19.06666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+389,388,389,362,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,CHALCHICOMULA DE SESMA,Ciudad Serdán,2539,-97.46444444,19.01194444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+390,389,390,443,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,ZACAZONAPAN,Zacazonapan En El Cerro,1432,-100.2347222,19.07277778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+391,390,391,50,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,OZUMBA,Ozumba de Alzate,2340,-98.81666667,19.05,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+392,391,392,559,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,ZACAZONAPAN,Km 2 Zacazonapan-Otzoloapan,1454,-100.2661111,19.07833333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+393,392,393,263,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TURICATO,Turicato,876,-101.4547222,19.08888889,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+394,393,394,785,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,ZACAZONAPAN,Zacazonapan,1450,-100.3,19.08333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+395,394,395,840,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,ZACAZONAPAN,Zacazonapan,1450,-100.3,19.08333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+396,395,396,868,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,ZACAZONAPAN,Zacazonapan,1450,-100.3,19.08333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+397,396,397,85,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,ZACAZONAPAN,Km 2 Zacazonapan-Otzoloapan,1420,-100.2666667,19.08333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+398,397,398,528,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,OZUMBA,ex-Hacienda Actopan (Cuijingo-Ozumba),2396,-98.81805556,19.06055556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+399,398,399,176,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,AMECAMECA,Soyatzingo,2480,-98.76666667,19.06666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+400,399,400,558,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,OTZOLOAPAN,Agua Zarca,1423,-100.2822222,19.09416667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+401,400,401,91,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,OTZOLOAPAN,"Agua Zarca, Km 7 Zacazonapan-Otzoloapan",1400,-100.3,19.1,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+402,401,402,366,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,JUCHITEPEC,San Matías Cuijingo,2485,-98.84527778,19.07944444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+403,402,403,428,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,JUCHITEPEC,Cuijingo (Predio El Plan),2478,-98.84527778,19.07972222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+404,403,404,367,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,AMECAMECA,San Antonio Zoyatzingo,2468,-98.77638889,19.08166667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+405,404,405,157,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN JUAN ATENCO,Ejido San Antonio,2520,-97.5,19.05,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+406,405,406,513,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TENANGO DEL VALLE,Tenango de Arista,2617,-99.58666667,19.09833333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+407,406,407,48,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,AMECAMECA,San Pedro Nexapa,2505,-98.75,19.08333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+408,407,408,211,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,AMECAMECA,San Pedro Nexapa,2505,-98.75,19.08333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+409,408,409,557,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,OTZOLOAPAN,Otzoloapan,1400,-100.2905556,19.11388889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+410,409,410,162,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLAS DE LOS RANCHOS,Cañada Grande San Nicolás de los Ranchos,2475,-98.48333333,19.08333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+411,410,411,516,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLÁS DE LOS RANCHOS,Santiago Xalitzintla,2572,-98.51361111,19.08416667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+412,411,412,842,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,COLIMA,COLIMA,Colima,480,-103.8,19.11666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+413,412,413,353,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLÁS DE LOS RANCHOS,San Nicolás de Los Ranchos (Cañada Grande),2455,-98.49083333,19.08666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+414,413,414,125,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN JUAN ATENCO,Ejido San Antonio,2440,-97.53333333,19.06666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+415,414,415,354,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN JUAN ATENCO,Km 18 Cd. Serdán-San Salvador El Seco,2480,-97.52111111,19.06722222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+416,415,416,274,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,Petembo,1048,-101.4891667,19.13305556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+417,416,417,514,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TENANGO DEL VALLE,Caseta de Autopista a Ixtapan de la Sal,2620,-99.60083333,19.11611111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+418,417,418,161,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,TLACHICHUCA,San Francisco Independencia,2701,-97.41666667,19.06666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+419,418,419,618,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,COLIMA,ND,Colima-17 Km sur de Colima,480,-103.4333333,19.13333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+420,419,420,199,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,OTZOLOAPAN,Km 8 Zuluapan-Tingambato,1178,-100.35,19.13333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+421,420,421,361,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,TLACHICHUCA,San Francisco Independencia,2670,-97.43055556,19.07361111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+422,421,422,368,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,AMECAMECA,1 km N de Amecameca (Prol. Francisco I. Madero),2500,-98.75694444,19.1125,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+423,422,423,124,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN JUAN ATENCO,Ejido Santa Cruz,2425,-97.55,19.08333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+424,423,424,556,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,OTZOLOAPAN,Km 39.5 Valle de Bravo-Zuluapan (Agua Zarca),1218,-100.3133333,19.14,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+425,424,425,446,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,OTZOLOAPAN,Zuluapan (Sobre La Carretera),1213,-100.3147222,19.14111111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+426,425,426,527,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,JUCHITEPEC,Libramiento Juchitepec-Ozumba,2454,-98.86944444,19.11805556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+427,426,427,177,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,AMECAMECA,Amecameca,2471,-98.76666667,19.11666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+428,427,428,153,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,MADERO,"Casa Blanca, Km 62 Huetamo-Villa Madero",1268,-101.3166667,19.15,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+429,428,429,425,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,AMECAMECA,Amecameca,2480,-98.75777778,19.12333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+430,429,430,87,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,OTZOLOAPAN,Km 8 Zuluapan-Tingambato,1260,-100.3833333,19.15,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+431,430,431,825,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,OTZOLOAPAN,Zuluapan,1300,-100.35,19.15,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+432,431,432,869,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,OTZOLOAPAN,Zuluapan,1300,-100.35,19.15,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+433,432,433,880,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,OTZOLOAPAN,Zuluapan,1300,-100.35,19.15,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+434,433,434,262,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,Chupio,1200,-101.4422222,19.15861111,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+435,434,435,265,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,Chupio,1200,-101.4422222,19.15861111,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+436,435,436,286,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,Chupio,1200,-101.4422222,19.15861111,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+437,436,437,287,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,Chupio,1200,-101.4422222,19.15861111,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+438,437,438,435,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,RAYÓN,Colonia Guadalupe,2590,-99.57444444,19.14111111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+439,438,439,355,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,ALJOJUCA,Km 1 Aljojuca-Santa María Coatepec,2437,-97.55166667,19.0975,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+440,439,440,159,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN SALVADOR EL SECO,Km 1 Santa María Coatepec-San Salvador El Seco,2470,-97.6,19.1,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+441,440,441,597,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,RAYÓN,Santa María Rayón (lado de autopista),2610,-99.58666667,19.14611111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+442,441,442,430,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,AYAPANGO,Ayapango (Ejido Bautista),2425,-98.82305556,19.1325,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+443,442,443,158,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,ALJOJUCA,Km 1 Aljojuca-SS El Seco,2465,-97.53333333,19.1,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+444,443,444,179,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TENANGO DEL AIRE,Km 1 Tenenango del Aire-Juchitepec,2432,-98.85,19.13333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+445,444,445,47,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,AMECAMECA,2 Km norte Amecameca,2390,-98.76666667,19.13333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+446,445,446,210,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,AMECAMECA,2 Km norte Amecameca,2390,-98.76666667,19.13333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+447,446,447,431,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TENANGO DEL AIRE,Santiago Tepopula,2400,-98.85472222,19.13833333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+448,447,448,407,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,OTZOLOAPAN,Km 35 Valle de Bravo-Zuluapan (El Llano),1240,-100.3030556,19.16194444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+449,448,449,517,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN SALVADOR EL SECO,Santa maría Coatepec,2505,-97.58916667,19.11055556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+450,449,450,436,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CALIMAYA,Calimaya (Rancho la Granja),2690,-99.61694444,19.15638889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+451,450,451,88,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,OTZOLOAPAN,Km 4 Zuluapan-Valle de Bravo,1320,-100.3166667,19.16666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+452,451,452,803,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,Santo Tomás,1150,-100.3166667,19.16666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+453,452,453,881,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,Santo Tomás,1150,-100.3166667,19.16666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+454,453,454,882,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,Santo Tomás,1150,-100.3166667,19.16666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+455,454,455,86,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,VALLE DE BRAVO,"Colorines, sifón al otro lado del río",1620,-100.2,19.16666667,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+456,455,456,526,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TENANGO DEL AIRE,Santiago Tepopula,2411,-98.86138889,19.14555556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+457,456,457,512,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,RAYÓN,Km 16.1 Toluca-Ixtapan de la Sal,2595,-99.57472222,19.15888889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+458,457,458,356,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN SALVADOR EL SECO,Km 1 Santa María Coatepec-San Salvador El Seco,2451,-97.61055556,19.11527778,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+459,458,459,126,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN SALVADOR EL SECO,Km 3 San Salvador El Seco-Coatepec,2425,-97.63333333,19.11666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+460,459,460,518,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN SALVADOR EL SECO,Santa María Coatepec-S.S. El Seco,2460,-97.62027778,19.11805556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+461,460,461,52,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TENANGO DEL AIRE,Tenango del Aire,2400,-98.86666667,19.15,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+462,461,462,555,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,SANTO TOMÁS,Santa Bárbara,1180,-100.2877778,19.17333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+463,462,463,789,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,COLIMA,MANZANILLO,Ojo de Agua,170,-104.4666667,19.16666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+464,463,464,802,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,COLIMA,MANZANILLO,Ojo de Agua,170,-104.4666667,19.16666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+465,464,465,874,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,COLIMA,MANZANILLO,Ojo de Agua,170,-104.4666667,19.16666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+466,465,466,554,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,VALLE DE BRAVO,Colorines (El Sifón),1600,-100.2163889,19.17638889,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+467,466,467,859,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,San Nicolás Tolentino,1530,-100.2358333,19.17833333,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+468,467,468,406,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,SANTO TOMÁS,Santo Tomás de los Plátanos,1345,-100.2547222,19.17861111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+469,468,469,369,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TLALMANALCO,San Antonio Tlaltecahuacan,2470,-98.77472222,19.155,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+470,469,470,405,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MEXICO,VALLE DE BRAVO,San Nicolás Tolentino,1402,-100.2466667,19.18027778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+471,470,471,90,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MÉXICO,SANTO TOMAS,Santo Tomás de los Plátanos,1380,-100.2833333,19.18333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+472,471,472,761,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,San Nicolas,1340,-100.2833333,19.18333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+473,472,473,762,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,San Nicolas,1340,-100.2833333,19.18333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+474,473,474,784,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,San Nicolas,1340,-100.2833333,19.18333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+475,474,475,870,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,SANTO TOMAS,San Nicolas,1340,-100.2833333,19.18333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+476,475,476,359,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,TLACHICHUCA,Tlachichuca-José María Morelos,2560,-97.44166667,19.12638889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+477,476,477,521,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,TLACHICHUCA,Rafael Avila Camacho,2605,-97.41222222,19.12972222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+478,477,478,257,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,La Parotita,1364,-101.3416667,19.19833333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+479,478,479,46,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TLALMANALCO,Km 52 México-Amecameca,2490,-98.78333333,19.16666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+480,479,480,49,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,AMECAMECA,Zoyatzingo,2450,-98.76666667,19.16666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+481,480,481,363,0,0,Chalco,Zea mays subsp. Mexicana,0,0,TLAXCALA,TENANCINGO,Tenancingo (km 11 Puebla Tlaxcala),2311,-98.18555556,19.16,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+482,481,482,858,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,VALLE DE BRAVO,Colorines,1695,-100.2009167,19.19888889,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+483,482,483,857,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,VALLE DE BRAVO,Colorines,1685,-100.2009444,19.19975,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+484,483,484,763,0,0,Tripsacum bravum,Tripsacum,0,0,MÉXICO,VALLE DE BRAVO,Valle de Bravo,1650,-100.2,19.2,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+485,484,485,519,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLÁS BUENOS AIRES,Crucero a Mata Redonda,2463,-97.4925,19.14694444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+486,485,486,55,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TEMAMATLA,Temamatla,2400,-98.88333333,19.18333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+487,486,487,180,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TEMAMATLA,Temamatla,2295,-98.86666667,19.18333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+488,487,488,508,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CAPULHUAC,La Poza-Chomititla (ca. Capulhuac),2590,-99.47611111,19.195,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+489,488,489,520,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,TLACHICHUCA,Lázaro Cárdenas (Hda. Santa Inés),2575,-97.39972222,19.14611111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+490,489,490,175,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,CHAPULTEPEC,Chapultepec,2595,-99.55,19.2,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+491,490,491,365,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEMAMATLA,Temamatla-Tenango del Aire,2297,-98.87166667,19.1875,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+492,491,492,437,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CHAPULTEPEC,Ejido de Chapultepec,2590,-99.55666667,19.20055556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+493,492,493,129,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,CHAPULTEPEC,Chapultepec,2540,-99.46666667,19.2,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+494,493,494,596,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CHAPULTEPEC,Autopista Ixtapan de la Sal (San Andrés Ocotlán),2625,-99.58583333,19.2025,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+495,494,495,595,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CHAPULTEPEC,Chapultepec,2602,-99.5675,19.20333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+496,495,496,509,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CHAPULTEPEC,Chapultepec,2592,-99.56583333,19.20361111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+497,496,497,18,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TUZANTLA,"Los Guajes, Km 43 Zitácuaro-Huetamo",985,-100.4833333,19.21666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+498,497,498,438,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,MEXICALTZINGO,Ejido de Mexicaltzingo,2600,-99.58472222,19.20555556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+499,498,499,569,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,El Llano de Zapote Grande,707,-100.7841667,19.22194444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+500,499,500,255,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,Punta de la Loma,1465,-101.3408333,19.22555556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+501,500,501,256,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TACÁMBARO,Punta de la Loma,1465,-101.3408333,19.22555556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+502,501,502,253,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,Las Mojarras,800,-100.7838889,19.22472222,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+503,502,503,160,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLAS BUENOS AIRES,1 Km antes San Nicolás de Buenos Aires,2402,-97.56666667,19.16666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+504,503,504,127,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLAS BUENOS AIRES,Km 11 San Salvador El Seco-Tlalchichuca,2355,-97.55,19.16666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+505,504,505,510,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,MEXICALTZINGO,San Mateo Mexicaltzingo,2606,-99.58972222,19.21388889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+506,505,506,209,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TLALMANALCO,Tlalmanalco,2400,-98.8,19.2,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+507,506,507,270,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TUZANTLA,Las Parotas,728,-100.7022222,19.22944444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+508,507,508,208,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,MEXICALTZINGO,Mexicaltzingo,2600,-99.58333333,19.21666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+509,508,509,358,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLÁS BUENOS AIRES,San Nicolás Buenos Aires,2388,-97.55722222,19.17138889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+510,509,510,529,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TLALMANALCO,Tlalmanalco de Velázquez,2425,-98.79944444,19.20305556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+511,510,511,507,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CAPULHUAC,San Nicolás Tlazala,2580,-99.46694444,19.21972222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+512,511,512,530,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TLALMANALCO,San Rafael,2432,-98.78388889,19.20694444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+513,512,513,429,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEMAMATLA,Temamatla (Predio Arenales),2267,-98.87944444,19.20944444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+514,513,514,523,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN MARTÍN TEXMELUCAN,Km 102 México-Puebla,2200,-98.33527778,19.19777778,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+515,514,515,156,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,PUEBLA,Km 102 autopista México-Puebla,2230,-98.33333333,19.2,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+516,515,516,357,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN NICOLÁS BUENOS AIRES,San Salvador El Seco-San Nicolás Buenos Aires,2380,-97.58,19.18166667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+517,516,517,440,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,METEPEC,Ejido de San Sebastián,2570,-99.54027778,19.22638889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+518,517,518,178,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,COCOTITLAN,Km 1 Cocotitlán-Juchitepec,2280,-98.86666667,19.21666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+519,518,519,531,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TLALMANALCO,Tlalmanalco-Miraflores,2320,-98.81111111,19.21611111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+520,519,520,364,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,COCOTITLÁN,Km 1 Cocotitlán-Juchitepec,2272,-98.86861111,19.2175,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+521,520,521,524,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN MARTÍN TEXMELUCAN,Km 104 México-Puebla,2205,-98.34722222,19.20666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+522,521,522,426,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,COCOTITLÁN,San Andres Metla (Ejidos),2340,-98.83444444,19.21777778,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+523,522,523,432,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CHALCO,San Pablo Atlazalpan,2253,-98.89888889,19.22333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+524,523,524,427,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,COCOTITLÁN,Cocotitlán,2300,-98.85916667,19.22583333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+525,524,525,360,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,TLACHICHUCA,Guadalupe Libertad,2512,-97.39055556,19.19027778,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+526,525,526,370,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CHALCO,Miraflores-La Candelaria Tlapala,2280,-98.83416667,19.2325,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+527,526,527,525,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,COCOTITLÁN,Cocotitlán,2285,-98.86194444,19.23333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+528,527,528,174,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TOLUCA,Km 1 Cacalomacán-Toluca,2769,-99.68333333,19.25,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+529,528,529,511,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,METEPEC,Metepec,2620,-99.60472222,19.25111111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+530,529,530,439,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,SAN MATEO ATENCO,Barrio San Francisco,2570,-99.53861111,19.25166667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+531,530,531,592,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,Cacalomacán,2760,-99.69083333,19.25638889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+532,531,532,120,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUAREZ,Km 37-43 Zitácuaro-Tuzantla,850,-100.4666667,19.26666667,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+533,532,533,17,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUAREZ,1 km norte de Santa Ana,1332,-100.4333333,19.26666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+534,533,534,532,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,CHALCO,Chalco (cerca de salida a Cocotitlán),2260,-98.86833333,19.24611111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+535,534,535,594,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,OCOYOACAC,El Pedregal,2592,-99.46694444,19.25777778,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+536,535,536,44,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,CHALCO,Chalco,2225,-98.88333333,19.25,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+537,536,537,54,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,CHALCO,Chalco,2225,-98.88333333,19.25,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+538,537,538,137,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,CHALCO,Chalco,2225,-98.88333333,19.25,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+539,538,539,45,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,CHALCO,Crucero Chalco-Miraflores,2200,-98.85,19.25,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+540,539,540,230,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,CHALCO,Km 6 Chalco-Amecameca,2200,-98.85,19.25,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+541,540,541,128,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,OCOYOACAC,El Pedregal Guadalupe Victoria,2500,-99.46666667,19.26666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+542,541,542,96,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,5 Km sur El Devanador,1000,-100.8,19.28333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+543,542,543,349,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,Hoyo del Aire,938,-101.8830556,19.29,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+544,543,544,350,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,Hoyo del Aire,938,-101.8830556,19.29,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+545,544,545,69,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUAREZ,"Laureles, Km 26 Zitácuaro-Tuzantla",1100,-100.4166667,19.28333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+546,545,546,269,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUÁREZ,Santa Ana,1348,-100.4336111,19.28972222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+547,546,547,593,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,OCOYOACAC,Desviación Méx-55 a Ocoyoacac,2579,-99.48944444,19.28083333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+548,547,548,570,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TIQUICHEO DE NICOLÁS ROMERO,El Manguito,753,-100.81,19.29805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+549,548,549,76,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,JILOTLAN DE LOS DOLORES,El Saucito,1460,-103.0833333,19.3,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+550,549,550,461,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,JILOTLÁN DE LOS DOLORES,El Saucito,1302,-103.0736111,19.30111111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+551,550,551,272,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,La Purísima,1277,-101.9008333,19.3075,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+552,551,552,273,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,La Purísima,1277,-101.9008333,19.3075,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+553,552,553,68,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUAREZ,"Benito Juárez, Km 24 Zitácuaro-Tuzantla",1300,-100.4166667,19.3,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+554,553,554,571,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Plan de Guadalupe,760,-100.8119444,19.30888889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+555,554,555,173,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,ALMOLOYA DE JUAREZ,"San Isidro, camino San Francisco Tlalcilalcalpa",2766,-99.76666667,19.3,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+556,555,556,434,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,LERMA,Ejido San Jose del Llanito,2575,-99.475,19.3,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+557,556,557,266,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUÁREZ,Puerto de Laureles,1349,-100.4494444,19.3175,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+558,557,558,268,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUÁREZ,Benito Juárez,1349,-100.4494444,19.3175,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+559,558,559,505,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,ALMOLOYA DE JUÁREZ,"San Isidro (Carr. San Francisco Tlalcilalcalpan, Carr. Méx 1)",2757,-99.78027778,19.30944444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+560,559,560,493,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,TECALITLÁN,San Isidro,1500,-103.2672222,19.32138889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+561,560,561,267,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JUÁREZ,Cerro Colorado,1314,-100.4561111,19.31944444,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+562,561,562,591,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,ALMOLOYA DE JUÁREZ,"San Isidro (Carr. San Francisco Tlalcilalcalpan, Carr. Méx 1)",2751,-99.77638889,19.31222222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+563,562,563,572,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Salitrillo (km 29 a Tzitzio),830,-100.8147222,19.325,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+564,563,564,171,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,"Taretan, La Primera",1170,-101.9166667,19.33333333,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+565,564,565,289,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,Taretan,1223,-101.9063889,19.34055556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+566,565,566,346,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,Taretan,1223,-101.9063889,19.34055556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+567,566,567,347,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,Taretan,1223,-101.9063889,19.34055556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+568,567,568,348,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,Taretan,1223,-101.9063889,19.34055556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+569,568,569,276,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Los Azares,895,-100.8269444,19.33777778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+570,569,570,573,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Agua Zarca (Km 31 a Tzitzio),870,-100.8183333,19.34111111,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+571,570,571,503,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,Km 12 Toluca-Atlacomulco (San Miguel Totoltepec),2580,-99.57361111,19.32666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+572,571,572,502,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,San Francisco Totoltepec,2605,-99.58583333,19.33194444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+573,572,573,172,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TOLUCA,"Autopista Atlacomulco, 1 Km de Toluca",2636,-99.66666667,19.33333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+574,573,574,574,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Los Azares (Km 32-33 a Tzitzio),900,-100.8194444,19.34805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+575,574,575,501,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,San Mateo Otzacatipan,2601,-99.58527778,19.34055556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+576,575,576,589,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,San Mateo Otzacatipan,2597,-99.58222222,19.34111111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+577,576,577,506,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,San Pablo Autopan,2632,-99.67027778,19.34416667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+578,577,578,522,0,0,Chalco,Zea mays subsp. Mexicana,0,0,PUEBLA,SAN MARTÍN TEXMELUCAN,Km 79.5 México-Puebla,2437,-98.52055556,19.32305556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+579,578,579,590,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,Toluca (carretera a Atlacomulco),2635,-99.67611111,19.34611111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+580,579,580,170,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,Km 100 autopista Uruapan-Lazaro Cárdenas,1256,-101.9166667,19.36666667,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+581,580,581,97,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Km 127 Huetamo-Morelia,1120,-100.8666667,19.36666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+582,581,582,588,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,San Andrés Cuexcontitlán (San Cristobal),2596,-99.60416667,19.35305556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+583,582,583,500,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TOLUCA,San Diego de los Padres,2593,-99.60083333,19.35444444,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+584,583,584,53,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,IXTAPALUCA,San Francisco Acuautla,2300,-98.88333333,19.35,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+585,584,585,100,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARETAN,"Las Colonias, frente a Granjas Baena",1180,-101.9166667,19.38333333,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+586,585,586,223,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,"Chinapa, Km 51 Temascal-Huetamo",930,-100.9,19.38333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+587,586,587,433,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,XONACATLÁN,El Espino Xonacatlán,2575,-99.53638889,19.37416667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+588,587,588,114,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,LA PAZ,"Los Reyes, La Paz",2200,-98.98333333,19.36666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+589,588,589,99,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,SALVADOR ESCALANTE,Villa Escalante-Opopeo,2320,-101.6,19.4,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+590,589,590,575,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,La Magdalena,827,-100.8786111,19.40138889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+591,590,591,249,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,SALVADOR ESCALANTE,Opopeo,2225,-101.6,19.41666667,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+592,591,592,576,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Chinapa-Santa Rosa,848,-100.8922222,19.41583333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+593,592,593,841,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,TECALITLAN,21 de Noviembre,1140,-103.3666667,19.41666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+594,593,594,875,0,0,Tripsacum bravum,Tripsacum,0,0,JALISCO,TECALITLAN,21 de Noviembre,1140,-103.3666667,19.41666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+595,594,595,724,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,TONILA,Tonila,1265,-103.5333333,19.41666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+596,595,596,792,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,VERACRUZ DE IGNACIO DE LA LLAVE,TLALTETELA,El Campanario,650,-96.81666667,19.35,LLANURA COSTERA DEL GOLFO SUR,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+597,596,597,850,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,VERACRUZ DE IGNACIO DE LA LLAVE,TLALTETELA,El Campanario,650,-96.81666667,19.35,LLANURA COSTERA DEL GOLFO SUR,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+598,597,598,726,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,TONILA,Puente Beltrán II,1004,-103.4666667,19.43333333,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+599,598,599,577,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Monte Largo (1-2 km  Norte),962,-100.9008333,19.44027778,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+600,599,600,235,0,0,Balsas,Zea mays subsp. Mexicana,0,0,COLIMA,MINATITLAN,San Antonio,850,-104.0166667,19.43333333,SIERRA MADRE DEL SUR,1,Occidente,5,V
+601,600,601,483,0,0,Balsas,Zea mays subsp. Mexicana,0,0,COLIMA,MINATITLÁN,El Sauz Rumbo al Terrero Km 2,959,-103.9833333,19.43666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+602,601,602,254,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Tafetán,959,-100.9036111,19.44916667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+603,602,603,275,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Tafetán,959,-100.9036111,19.44916667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+604,603,604,98,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,4 Km sur Paso Ancho,1100,-100.9,19.45,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+605,604,605,482,0,0,Balsas,Zea mays subsp. Mexicana,0,0,COLIMA,MINATITLÁN,El Sauz,1000,-103.9833333,19.44166667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+606,605,606,1083,0,0,Tripsacum lanceolatum,Tripsacum,0,0,COLIMA,MINATITLÁN,"El Sauz, 2 km del entronque rumbo a El Terrero, Cerro Grande",1300,-103.9675,19.44444444,SIERRA MADRE DEL SUR,1,Occidente,5,V
+607,606,607,1084,0,0,Tripsacum maizar,Tripsacum,0,0,COLIMA,MINATITLÁN,"El Sauz, 2 km del entronque rumbo a El Terrero, Cerro Grande",1300,-103.9675,19.44444444,SIERRA MADRE DEL SUR,1,Occidente,5,V
+608,607,608,578,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,El Zapotillo,1000,-100.9111111,19.45888889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+609,608,609,169,0,0,Balsas,Zea mays subsp. Mexicana,0,0,COLIMA,MINATITLAN,El Sauz,1103,-104.0333333,19.45,SIERRA MADRE DEL SUR,1,Occidente,5,V
+610,609,610,236,0,0,Balsas,Zea mays subsp. Mexicana,0,0,COLIMA,MINATITLAN,El Sauz,1100,-104.0333333,19.45,SIERRA MADRE DEL SUR,1,Occidente,5,V
+611,610,611,201,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Km 33.5 Temascal-Huetamo,1100,-100.9166667,19.46666667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+612,611,612,252,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Tzitzio,990,-100.9183333,19.47138889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+613,612,613,579,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Paso Ancho,1080,-100.92,19.48,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+614,613,614,723,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,TUXPAN,Puente El Platanar,1154,-103.45,19.48333333,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+615,614,615,251,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Paso Ancho,1130,-100.9227778,19.48916667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+616,615,616,222,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,"Queretanillo, Km 51 Temascal-Huet.",1310,-100.9166667,19.5,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+617,616,617,504,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,IXTLAHUACA,Km 25.5 Toluca-Atlacomulco,2540,-99.73333333,19.49166667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+618,617,618,546,0,0,Balsas,Zea mays subsp. Mexicana,0,0,GUERRERO,PEDRO ASCENCIO ALQUISIRAS,Ixcapaneca,1368,-99.92444444,19.49666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+619,618,619,136,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,San Miguel de Ayotitlán,1450,-104.2,19.5,SIERRA MADRE DEL SUR,1,Occidente,5,V
+620,619,620,580,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,El Limoncito,1150,-100.9077778,19.51805556,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+621,620,621,422,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEXCOCO,San Martín Netzahualcoyotl (Boyeros),2236,-98.92111111,19.49138889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+622,621,622,371,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEXCOCO,San Martín Netzahualcoyotl (Boyeros),2254,-98.92083333,19.49472222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+623,622,623,247,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,TOLIMAN,La Lima,1450,-104.05,19.51666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+624,623,624,75,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,TEXCOCO,Boyeros,2200,-98.91666667,19.5,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+625,624,625,372,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEXCOCO,San Felipe (Tocuila),2244,-98.91916667,19.50388889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+626,625,626,533,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEXCOCO,San Felipe,2244,-98.91916667,19.50388889,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+627,626,627,423,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEXCOCO,San Dieguito,2381,-98.85333333,19.50472222,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+628,627,628,581,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Queretanillo,1250,-100.9141667,19.53694444,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+629,628,629,250,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,El Limoncito,1107,-100.9211111,19.54166667,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+630,629,630,244,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,TOLIMAN,El Rodeo,1364,-104.05,19.53333333,SIERRA MADRE DEL SUR,1,Occidente,5,V
+631,630,631,102,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,TOLIMAN,"La Lima, camino a El Rodeo",1405,-104.0666667,19.53333333,SIERRA MADRE DEL SUR,1,Occidente,5,V
+632,631,632,229,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,San Miguel Cuzalapa,2250,-104.2166667,19.53333333,SIERRA MADRE DEL SUR,1,Occidente,5,V
+633,632,633,234,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,La Ventana,2250,-104.2166667,19.53333333,SIERRA MADRE DEL SUR,1,Occidente,5,V
+634,633,634,202,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Queretanillo,1342,-100.9166667,19.55,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+635,634,635,717,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MÉXICO,TEXCOCO,La Purificación,2600,-98.81063889,19.52705556,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+636,635,636,1082,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,TOLIMÁN,"Arroyo de la Primera Agua, antes de El Rodeo, Ejido de El Rodeo",1120,-104.0447222,19.54777778,SIERRA MADRE DEL SUR,1,Occidente,5,V
+637,636,637,420,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEXCOCO,La Purificación,2280,-98.84305556,19.53,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+638,637,638,481,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,TOLIMÁN,El Rodeo (Potrero La Carbonera),1462,-104.05,19.55,SIERRA MADRE DEL SUR,1,Occidente,5,V
+639,638,639,480,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,TOLIMÁN,"San Pedro Toxín, Rumbo al Pto. de Toxin",1300,-103.9933333,19.55805556,SIERRA MADRE DEL SUR,1,Occidente,5,V
+640,639,640,727,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,ZAPOTILTIC,Zapotiltic,1359,-103.4333333,19.56666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+641,640,641,351,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Las Ceibas,1437,-100.9233333,19.5725,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+642,641,642,421,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,TEXCOCO,Pentecostés,2263,-98.84861111,19.54861111,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+643,642,643,582,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,Km 1 Tzitzio-Huetamo,1523,-100.9213889,19.58138889,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+644,643,644,232,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,CASIMIRO CASTILLO,La Huertita,1000,-104.3833333,19.56666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+645,644,645,233,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,CASIMIRO CASTILLO,Piedra Gorda,1000,-104.3833333,19.56666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+646,645,646,323,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,LAGUNILLAS,San José Coapa,1850,-101.425,19.58472222,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+647,646,647,424,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MEXICO,ATENCO,Atenco,2240,-98.9075,19.555,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+648,647,648,21,0,0,Chalco,Zea mays subsp. Mexicana,0,0,MÉXICO,ATENCO,Km 3 Chiconcuac-Lechería,2250,-98.91666667,19.56666667,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+649,648,649,231,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,Las Joyas,1800,-104.2833333,19.58333333,SIERRA MADRE DEL SUR,1,Occidente,5,V
+650,649,650,71,0,0,Balsas,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TZITZIO,"Tzitzio, barranca",1500,-100.9166667,19.6,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+651,650,651,135,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,Rincón de Manantlán,1470,-104.2166667,19.6,SIERRA MADRE DEL SUR,1,Occidente,5,V
+652,651,652,207,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,Corralitos,1854,-104.3,19.6,SIERRA MADRE DEL SUR,1,Occidente,5,V
+653,652,653,109,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,CUAUTITLAN DE GARCIA BARRAGAN,Manantlán,980,-104.2,19.61666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+654,653,654,722,0,0,Tripsacum intermedium,Tripsacum,0,0,JALISCO,TAMAZULA DE GORDIANO,Barranca del Toro,1150,-103.3333333,19.63333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+655,654,655,844,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MICHOACÁN DE OCAMPO,TUXPAN,Turundeo,1750,-100.4833333,19.63333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+656,655,656,107,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,SAN MARTIN HIDALGO,Venustiano Carranza-La Mesa,2130,-103.5666667,19.63333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+657,656,657,106,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,SAN GABRIEL,Venustiano Carranza-Piedra Ancha,2100,-103.5833333,19.63333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+658,657,658,484,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,SAN GABRIEL,Piedra Ancha,2057,-103.5730556,19.63916667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+659,658,659,108,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,SAN GABRIEL,La Tinaja,2100,-103.5833333,19.65,EJE NEOVOLCÁNICO,1,Occidente,5,V
+660,659,660,228,0,0,NA,Zea mays subsp. Mexicana,0,0,JALISCO,ZAPOTLAN EL GRANDE,Ciudad Guzmán,1650,-103.5833333,19.66666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+661,660,661,324,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ERONGARÍCUARO,Lázaro Cárdenas,2419,-101.7505556,19.68416667,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+662,661,662,721,0,0,Tripsacum bravum,Tripsacum,0,0,JALISCO,TAMAZULA DE GORDIANO,Soyatlán,1124,-103.2666667,19.68333333,SIERRA MADRE DEL SUR,7,Sierra Madre del Sur,9,IX
+663,662,663,200,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HIDALGO,Km 3 Cd. Hidalgo-Morelia,2102,-100.6166667,19.68333333,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+664,663,664,70,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HIDALGO,"2 Km oeste Cd. Hidalgo, frente a granja La Alborada",2005,-100.6,19.7,EJE NEOVOLCÁNICO,5,Mesa Central,7,VII
+665,664,665,38,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACION,Los Cimientos,520,-104.8166667,19.7,SIERRA MADRE DEL SUR,1,Occidente,5,V
+666,665,666,203,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACION,Los Cimientos,552,-104.8166667,19.7,SIERRA MADRE DEL SUR,1,Occidente,5,V
+667,666,667,475,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,Los Cimientos,532,-104.8194444,19.70472222,SIERRA MADRE DEL SUR,1,Occidente,5,V
+668,667,668,73,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,MORELIA,"Morelia, Km 2 a Salamanca",1920,-101.1833333,19.73333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+669,668,669,472,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,Talpitita,520,-104.8030556,19.71527778,SIERRA MADRE DEL SUR,1,Occidente,5,V
+670,669,670,72,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,MORELIA,Morelia,2000,-101.2333333,19.75,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+671,670,671,310,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,MORELIA,Cuto de la Esperanza,2150,-101.3433333,19.75527778,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+672,671,672,474,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,Llano del Higo (Predio La Joya),614,-104.8669444,19.74388889,SIERRA MADRE DEL SUR,1,Occidente,5,V
+673,672,673,103,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACION,"Jirosto, potrero Las Carboneras",500,-104.7666667,19.75,SIERRA MADRE DEL SUR,1,Occidente,5,V
+674,673,674,204,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACION,"El Tepopote, Huista-La Cofradía",683,-104.85,19.75,SIERRA MADRE DEL SUR,1,Occidente,5,V
+675,674,675,473,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,Huista,650,-104.85,19.75,SIERRA MADRE DEL SUR,1,Occidente,5,V
+676,675,676,490,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,El Tepopote (Huista-La Cofradía),650,-104.85,19.75861111,SIERRA MADRE DEL SUR,1,Occidente,5,V
+677,676,677,325,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,INDAPARAPEO,Colonia Miguel Hidalgo,1872,-101.9852778,19.79,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+678,677,678,489,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,Huista (Predio El Espadañal),657,-104.8447222,19.76472222,SIERRA MADRE DEL SUR,1,Occidente,5,V
+679,678,679,205,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACION,"La Cofradía, 2 Km al este",635,-104.8333333,19.76666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+680,679,680,487,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,Lamborín (5km de La Cofradía),683,-104.835,19.76972222,SIERRA MADRE DEL SUR,1,Occidente,5,V
+681,680,681,488,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,La Calera,662,-104.8386111,19.77,SIERRA MADRE DEL SUR,1,Occidente,5,V
+682,681,682,326,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,INDAPARAPEO,Indaparapeo,1895,-101.9505556,19.80305556,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+683,682,683,486,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,VILLA PURIFICACIÓN,La Mina (3 Km de La Cofradía),672,-104.8419444,19.78638889,SIERRA MADRE DEL SUR,1,Occidente,5,V
+684,683,684,290,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARÍMBARO,Santa Ana del Arco,1884,-101.1391667,19.82305556,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+685,684,685,291,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TARÍMBARO,Santa Ana del Arco,1884,-101.1391667,19.82305556,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+686,685,686,728,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,SAYULA,Km 69-70,1534,-103.5,19.83333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+687,686,687,1085,0,0,Tripsacum zopilotense,Tripsacum,0,0,JALISCO,EL LIMÓN,"Rancho El Recodo, 2 km al NW de San Miguel",832,-104.0897222,19.84888889,EJE NEOVOLCÁNICO,1,Occidente,5,V
+688,687,688,15,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCANDIRO,Km 267.5 autopista Guadalajara-Morelia,2019,-101.3833333,19.86666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+689,688,689,719,0,0,Tripsacum pilosum,Tripsacum,0,0,MICHOACÁN DE OCAMPO,MORELIA,Morelia,1961,-101.3666667,19.86666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+690,689,690,313,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCÁNDIRO,Tanimireche,2122,-101.3997222,19.87777778,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+691,690,691,314,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCÁNDIRO,Tanimireche,2122,-101.3997222,19.87777778,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+692,691,692,315,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCÁNDIRO,Tanimireche,2122,-101.3997222,19.87777778,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+693,692,693,468,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EL GRULLO,Km. 7 Carretera el Grullo - Ejutla,1112,-104.22,19.86527778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+694,693,694,225,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,COPANDARO,Copándaro,1800,-101.2166667,19.88333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+695,694,695,14,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,COPANDARO,San Agustín del Maíz,1855,-101.1666667,19.88333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+696,695,696,292,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ÁLVARO OBREGÓN,Colonia Zapata,1842,-101.0819444,19.88888889,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+697,696,697,311,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUANIQUEO,Tendeparacua,2142,-101.4258333,19.89472222,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+698,697,698,316,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUANIQUEO,Tendeparacua,2142,-101.4258333,19.89472222,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+699,698,699,327,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ÁLVARO OBREGÓN,Las Trojes,1823,-101.0702778,19.89527778,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+700,699,700,206,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Km 14 El Grullo-Ejutla,1325,-104.1666667,19.88333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+701,700,701,240,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Crucero Ejutla-Unión de Tula-El Grullo,1334,-104.1666667,19.88333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+702,701,702,246,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Crucero Ejutla-Unión de Tula-El Grullo,1311,-104.1666667,19.88333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+703,702,703,34,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCANDIRO,Chucandiro,1810,-101.3166667,19.9,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+704,703,704,132,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,COPANDARO,San Agustín del Maíz,1825,-101.1666667,19.9,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+705,704,705,295,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,COPÁNDARO,San Agustín del Maíz,1855,-101.1602778,19.90444444,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+706,705,706,298,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,COPÁNDARO,San Agustín del Maíz,1855,-101.1602778,19.90444444,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+707,706,707,322,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,COPÁNDARO,San Agustín del Maíz,1855,-101.1602778,19.90444444,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+708,707,708,296,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCÁNDIRO,San Sebastián,1875,-101.3,19.90583333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+709,708,709,317,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCÁNDIRO,San Sebastián,1875,-101.3,19.90583333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+710,709,710,469,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EL GRULLO,"Carretera El Grullo - Ejutla, entre el Km. 11 y 12",1242,-104.1913889,19.89166667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+711,710,711,456,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,km. 14 Carretera El Grullo - Ejutla,1319,-104.1761111,19.89611111,EJE NEOVOLCÁNICO,1,Occidente,5,V
+712,711,712,462,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,km. 14 Carretera El Grullo - Ejutla,1319,-104.1794444,19.89611111,EJE NEOVOLCÁNICO,1,Occidente,5,V
+713,712,713,293,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,San Juan,1846,-101.1163889,19.90972222,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+714,713,714,294,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,San Juan,1846,-101.1163889,19.90972222,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+715,714,715,242,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Los Naranjos,1003,-104.1,19.9,EJE NEOVOLCÁNICO,1,Occidente,5,V
+716,715,716,452,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Amacuautitlanejo,1007,-104.1055556,19.9,EJE NEOVOLCÁNICO,1,Occidente,5,V
+717,716,717,455,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Entronque Carretera El Grullo - Ejutla,1329,-104.1722222,19.90027778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+718,717,718,1081,0,0,Tripsacum zopilotense,Tripsacum,0,0,JALISCO,EJUTLA,Entronque carretera El Grullo-Ejutla,1329,-104.1758333,19.90027778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+719,718,719,237,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JIMENEZ,Villa Jiménez,1900,-101.7333333,19.91666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+720,719,720,476,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Carretera Unión de Tula-Ejutla Km. 15.5,1352,-104.1730556,19.90138889,EJE NEOVOLCÁNICO,1,Occidente,5,V
+721,720,721,457,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,"Salida de Ejutla - Rumbo al Estanco, a un Km. del Pueblo",1137,-104.1572222,19.9025,EJE NEOVOLCÁNICO,1,Occidente,5,V
+722,721,722,463,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Salida de Ejutla Rumbo al Estanco Km 1,1137,-104.1572222,19.9025,EJE NEOVOLCÁNICO,1,Occidente,5,V
+723,722,723,477,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Carretera Ejutla - Rumbo al pueblo Km. 18,1225,-104.1683333,19.9025,EJE NEOVOLCÁNICO,1,Occidente,5,V
+724,723,724,471,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Cerro del Cristo Rey,1198,-104.1586111,19.90444444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+725,724,725,478,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Cerro del Cristo Rey,1186,-104.1591667,19.905,EJE NEOVOLCÁNICO,1,Occidente,5,V
+726,725,726,470,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Carretera Ejutla - Unión de Tula,1344,-104.1730556,19.9075,EJE NEOVOLCÁNICO,1,Occidente,5,V
+727,726,727,451,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Amacuautitlanejo (rumbo a El Estanco),967,-104.1111111,19.91027778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+728,727,728,458,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,El Estanco,962,-104.1086111,19.91527778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+729,728,729,453,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,El Estanco,967,-104.1088889,19.91555556,EJE NEOVOLCÁNICO,1,Occidente,5,V
+730,729,730,133,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,"Ejutla, parcela El Mamey",1140,-104.15,19.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+731,730,731,312,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,JIMÉNEZ,Chapitiro,2012,-101.7236111,19.93305556,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+732,731,732,454,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Los Naranjos de en medio,939,-104.0927778,19.92333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+733,732,733,464,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Los Naranjos de en medio,939,-104.0927778,19.92361111,EJE NEOVOLCÁNICO,1,Occidente,5,V
+734,733,734,130,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Los Naranjos de Enmedio,960,-104.6166667,19.91666667,SIERRA MADRE DEL SUR,1,Occidente,5,V
+735,734,735,241,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,San Lorenzo,984,-103.9833333,19.93333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+736,735,736,449,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,La Labor,933,-104.0083333,19.93388889,EJE NEOVOLCÁNICO,1,Occidente,5,V
+737,736,737,243,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,El Estanco,945,-104.05,19.93333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+738,737,738,720,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,MICHOACÁN DE OCAMPO,JIQUILPAN,San José de Gracia,2070,-103,19.95,EJE NEOVOLCÁNICO,1,Occidente,5,V
+739,738,739,134,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,San Lorenzo,950,-104,19.95,EJE NEOVOLCÁNICO,1,Occidente,5,V
+740,739,740,297,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUANDACAREO,La Labor,1848,-101.3177778,19.96222222,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+741,740,741,37,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,"El Palmar, cerro La Mesa",980,-104.0666667,19.95,EJE NEOVOLCÁNICO,1,Occidente,5,V
+742,741,742,450,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,San Lorenzo (Predio El Colomo),1000,-103.9841667,19.95166667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+743,742,743,248,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,San Lorenzo,982,-104.15,19.95,EJE NEOVOLCÁNICO,1,Occidente,5,V
+744,743,744,303,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PANINDÍCUARO,Botello,2091,-101.6713889,19.96638889,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+745,744,745,32,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUANDACAREO,Hacienda La Estancia,1810,-101.3166667,19.96666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+746,745,746,33,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUANDACAREO,Hacienda La Estancia,1810,-101.3166667,19.96666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+747,746,747,465,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Mesa de San Nicolás,1186,-104.0425,19.95777778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+748,747,748,341,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,TANGAMANDAPIO,Telonzo,1635,-102.4472222,19.97194444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+749,748,749,329,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,Capacho,1849,-101.2025,19.97166667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+750,749,750,459,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Mesa de San Nicolás,1186,-104.0494444,19.96055556,EJE NEOVOLCÁNICO,1,Occidente,5,V
+751,750,751,245,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,JUCHITLAN,El Coyotomate,1288,-104.05,19.96666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+752,751,752,105,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,El Coyotomate,1300,-104.0666667,19.96666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+753,752,753,485,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Poblado El Cuyotomate,1279,-104.0752778,19.96777778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+754,753,754,460,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,El Cuyotomate,1272,-104.0652778,19.97027778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+755,754,755,13,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUANDACAREO,Hacienda La Estancia,1888,-101.2833333,19.98333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+756,755,756,466,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,Mesa de San Nicolás,1190,-104.0480556,19.97138889,EJE NEOVOLCÁNICO,1,Occidente,5,V
+757,756,757,467,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,EJUTLA,El Cuyotomate,1272,-104.0647222,19.97138889,EJE NEOVOLCÁNICO,1,Occidente,5,V
+758,757,758,309,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ZAMORA,Ario de Rayón,1520,-102.3544444,19.99444444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+759,758,759,301,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,HUANDACAREO,La Estancia,1850,-101.2891667,19.99416667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+760,759,760,104,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,JUCHITLAN,Agua Caliente,1000,-104.05,19.98333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+761,760,761,12,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,2 Km sur Cuamio,1854,-101.15,20,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+762,761,762,479,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,JUCHITLÁN,Agua Caliente,1000,-104.0463889,19.99055556,EJE NEOVOLCÁNICO,1,Occidente,5,V
+763,762,763,35,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,2 Km sur Cuamio,1790,-101.15,20.01666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+764,763,764,320,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,Rancho Seco,1862,-101.17,20.02416667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+765,764,765,305,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PENJAMILLO,San Antonio Corupo,1929,-101.9180556,20.0275,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+766,765,766,319,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,Chupícuaro,1845,-101.1575,20.02638889,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+767,766,767,338,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHAVINDA,La Esperanza,1570,-102.3908333,20.02861111,EJE NEOVOLCÁNICO,1,Occidente,5,V
+768,767,768,8,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PURUANDIRO,"Batuecas, 1 Km hacia Cuitzeo",2186,-101.4666667,20.03333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+769,768,769,334,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,VILLAMAR,Los Zarquillos,1595,-102.53,20.04944444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+770,769,770,335,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,VILLAMAR,Los Zarquillos,1595,-102.53,20.04944444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+771,770,771,9,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,GUANAJUATO,MOROLEON,Piñícuaro,2025,-101.2333333,20.05,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+772,771,772,299,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CUITZEO,La Puerta de Salto,1845,-101.1775,20.05416667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+773,772,773,336,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,VILLAMAR,El Varal,1665,-102.5522222,20.0625,EJE NEOVOLCÁNICO,1,Occidente,5,V
+774,773,774,337,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,VILLAMAR,El Varal,1665,-102.5522222,20.0625,EJE NEOVOLCÁNICO,1,Occidente,5,V
+775,774,775,2,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,"Changuitiro, 1 Km carretera hacia Purepero",1910,-102.05,20.06666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+776,775,776,10,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,GUANAJUATO,MOROLEON,"Crucero Sepio, carretera Piñícuaro-Moroleón",1917,-101.1833333,20.06666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+777,776,777,30,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PURUANDIRO,Km 6 Puruándiro-Villachuato,1840,-102.0833333,20.08333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+778,777,778,5,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PURUANDIRO,Km 2 Puruándiro-Las Pilas,1948,-101.4833333,20.08333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+779,778,779,7,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PURUANDIRO,"Km 2 Puruándiro-Cuitzeo, paseo Agua Tibia",1941,-101.4833333,20.08333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+780,779,780,318,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHUCÁNDIRO,Chucándiro,2074,-101.9891667,20.08888889,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+781,780,781,321,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PURUÁNDIRO,La Quemada,1863,-101.4344444,20.09555556,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+782,781,782,328,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PURUÁNDIRO,La Quemada,1863,-101.4344444,20.09555556,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+783,782,783,4,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PENJAMILLO,Penjamillo,1775,-101.9333333,20.1,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+784,783,784,118,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PENJAMILLO,Penjamillo de Degollado,1700,-101.9333333,20.1,EJE NEOVOLCÁNICO,7,Sierra Madre del Sur,9,IX
+785,784,785,39,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,COJUMATLAN DE REGULES,"5-7 Km suroeste Cojumatlán, barranca Juan Diego",1700,-102.8833333,20.1,EJE NEOVOLCÁNICO,1,Occidente,5,V
+786,785,786,345,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PENJAMILLO,Penjamillo,1800,-101.9591667,20.11194444,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+787,786,787,31,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,PURUANDIRO,Km 2 Puruandiro-Las Tortugas,1880,-101.45,20.11666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+788,787,788,330,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLÁN,El Salitre,1542,-102.6086111,20.11916667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+789,788,789,331,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLÁN,El Salitre,1542,-102.6086111,20.11916667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+790,789,790,339,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLÁN,El Salitre,1542,-102.6086111,20.11916667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+791,790,791,340,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLÁN,El Salitre,1542,-102.6086111,20.11916667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+792,791,792,342,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Huapamacato,1823,-102.0875,20.14055556,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+793,792,793,344,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Huapamacato,1823,-102.0875,20.14055556,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+794,793,794,307,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ECUANDUREO,Ecuandureo,1548,-102.2591667,20.145,EJE NEOVOLCÁNICO,1,Occidente,5,V
+795,794,795,332,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ECUANDUREO,Ecuandureo,1548,-102.2591667,20.145,EJE NEOVOLCÁNICO,1,Occidente,5,V
+796,795,796,343,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ECUANDUREO,Ecuandureo,1548,-102.2591667,20.145,EJE NEOVOLCÁNICO,1,Occidente,5,V
+797,796,797,154,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Cerro Churintzio,1940,-102.05,20.15,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+798,797,798,29,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Cerro Churintzio,1800,-102.0833333,20.15,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+799,798,799,16,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Km 351.3 autopista Guadalajara-Morelia,1801,-102.1,20.15,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+800,799,800,155,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLAN,El Salitre,1940,-102.35,20.15,EJE NEOVOLCÁNICO,1,Occidente,5,V
+801,800,801,119,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,GUANAJUATO,URIANGATO,"Uriangato, salida a Salamanca",1785,-101.1666667,20.15,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+802,801,802,226,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,GUANAJUATO,URIANGATO,Uriangato,1785,-101.1666667,20.15,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+803,802,803,308,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLÁN,Ojo de Agua,1528,-102.3661111,20.15694444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+804,803,804,333,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,La Higuera,1816,-102.0869444,20.16083333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+805,804,805,6,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ZINAPARO,Jalapa,1917,-102.0333333,20.16666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+806,805,806,3,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Km 3.2 Churintzio-La Noria,1809,-102.0666667,20.16666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+807,806,807,123,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Km 1.5 Churintzio-La Noria,1790,-102.0833333,20.16666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+808,807,808,74,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLAN,El Salitre,1530,-102.3833333,20.16666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+809,808,809,11,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,GUANAJUATO,URIANGATO,"Uriangato, salida a Yuriria",1880,-101.15,20.16666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+810,809,810,28,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ZINAPARO,Jalapa,1840,-102.0333333,20.18333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+811,810,811,121,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,IXTLAN,El Salitre 1-2 Km sureste,1530,-102.3666667,20.18333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+812,811,812,302,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,MORELOS,Jururemba,2208,-101.4694444,20.18944444,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+813,812,813,122,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,CHURINTZIO,Km 3.5 Churintzio-La Noria,1760,-102.1,20.2,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+814,813,814,306,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,VISTA HERMOSA,Vista Hermosa,1665,-102.3588889,20.21777778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+815,814,815,300,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,GUANAJUATO,MOROLEÓN,La Cinta,1843,-101.1605556,20.23527778,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+816,815,816,304,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,MICHOACÁN DE OCAMPO,ZINÁPARO,Jalapa,1719,-101.9477778,20.24,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+817,816,817,138,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,LA BARCA,"Rancho Aranguren, San José de Las Moras",1505,-102.6,20.3,EJE NEOVOLCÁNICO,1,Occidente,5,V
+818,817,818,418,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,LA BARCA,1 km N de La Providencia,1542,-102.6341667,20.31194444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+819,818,819,139,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,LA BARCA,"La Providencia, 2 Km al norte",1542,-102.6166667,20.31666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+820,819,820,141,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,LA BARCA,"La Providencia 1 Km al norte, La Noria",1520,-102.6166667,20.31666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+821,820,821,417,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,LA BARCA,2 km N de La Providencia,1544,-102.6316667,20.3225,EJE NEOVOLCÁNICO,1,Occidente,5,V
+822,821,822,566,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,LA BARCA,Loreto,1543,-102.4838889,20.33277778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+823,822,823,142,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,PONCITLAN,"Poncitlán, Salida a Guadalajara",1565,-102.9333333,20.36666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+824,823,824,416,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,LA BARCA,El Gobernador,1540,-102.4163889,20.37694444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+825,824,825,567,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,PONCITLÁN,Poncitlán,1565,-102.9433333,20.37888889,EJE NEOVOLCÁNICO,1,Occidente,5,V
+826,825,826,140,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,PONCITLAN,Km 3 Ahuatlán-Poncitlán,1510,-102.9,20.4,EJE NEOVOLCÁNICO,1,Occidente,5,V
+827,826,827,419,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,ZAPOTLÁN DEL REY,Km 2 Poncitlán-Ahuatlán,1550,-102.9044444,20.40333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+828,827,828,163,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,AYOTLAN,"San Jerónimo, Cerro Grande",1597,-102.3333333,20.41666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+829,828,829,22,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,AYOTLAN,"San Jerónimo, Valle 4 Km norte",1520,-102.35,20.41666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+830,829,830,23,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,AYOTLAN,"San Jerónimo, falda Cerro Grande",1535,-102.35,20.41666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+831,830,831,24,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,AYOTLAN,"San Jerónimo, Cerro Grande",1600,-102.35,20.41666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+832,831,832,565,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,AYOTLÁN,Santa Rita-Cerro Grande (lado Oeste),1568,-102.3611111,20.41833333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+833,832,833,415,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,JALISCO,AYOTLÁN,Extremo Este Cerro Grande (San Jerónimo),1583,-102.3383333,20.4225,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+834,833,834,729,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,ACATLAN DE JUAREZ,Acatlán,1429,-103.5833333,20.41666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+835,834,835,796,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,ACATLAN DE JUAREZ,Acatlan,1470,-103.5833333,20.41666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+836,835,836,832,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,VILLA CORONA,Aguacaliente,1420,-103.6833333,20.45,EJE NEOVOLCÁNICO,1,Occidente,5,V
+837,836,837,873,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,VILLA CORONA,Aguacaliente,1420,-103.6833333,20.45,EJE NEOVOLCÁNICO,1,Occidente,5,V
+838,837,838,730,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,TLAJOMULCO DE ZUÑIGA,Tlajomulco,1611,-103.4666667,20.51666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+839,838,839,746,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,ATOTONILCO EL ALTO,Atotonilco II,1755,-102.4333333,20.55,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+840,839,840,745,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,ATOTONILCO EL ALTO,Atotonilco I,1628,-102.45,20.55,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+841,840,841,744,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,ZAPOTLANEJO,Zapotlanejo,1469,-103.1166667,20.6,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+842,841,842,743,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,TONALA,Tonalá,1556,-103.1666667,20.6,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+843,842,843,164,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,AMECA,Quexpan-Las Raíces,1139,-104.2166667,20.6,EJE NEOVOLCÁNICO,1,Occidente,5,V
+844,843,844,111,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,AMECA,Quexpan-Las Raíces,1050,-104.2333333,20.6,EJE NEOVOLCÁNICO,1,Occidente,5,V
+845,844,845,584,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,AMECA,Quexpan-Las Raíces,1200,-104.2258333,20.61083333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+846,845,846,583,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,K10 Guachinango-La Ciénega (La Loma),1415,-104.4194444,20.62777778,EJE NEOVOLCÁNICO,1,Occidente,5,V
+847,846,847,113,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,Km 10 Guachinango-La Ciénega,1385,-104.4166667,20.63333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+848,847,848,145,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,Km 10 Guachinango-La Ciénega,1400,-104.4166667,20.63333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+849,848,849,757,0,0,Tripsacum lanceolatum,Tripsacum,0,0,JALISCO,JESUS MARIA,Josefino de Allende,2050,-102.05,20.68333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+850,849,850,806,0,0,Tripsacum lanceolatum,Tripsacum,0,0,JALISCO,JESUS MARIA,Josefino de Allende,2050,-102.05,20.68333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+851,850,851,816,0,0,Tripsacum lanceolatum,Tripsacum,0,0,JALISCO,JESUS MARIA,Josefino de Allende,2050,-102.05,20.68333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+852,851,852,818,0,0,Tripsacum lanceolatum,Tripsacum,0,0,JALISCO,JESUS MARIA,Josefino de Allende,2050,-102.05,20.68333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+853,852,853,112,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,"La Ciénega de Los Ahumada, Potrero La Fortuna",1320,-104.5,20.68333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+854,853,854,788,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,GUADALAJARA,Huentitan,1450,-103.3,20.71666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+855,854,855,790,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,GUADALAJARA,Huentitan,1450,-103.3,20.71666667,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+856,855,856,131,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,ETZATLAN,Oconahua,1370,-104.1166667,20.71666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+857,856,857,791,0,0,Tripsacum bravum,Tripsacum,0,0,JALISCO,GUADALAJARA,Independencia,1480,-103.3166667,20.73333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+858,857,858,797,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,GUADALAJARA,Independencia,1480,-103.3166667,20.73333333,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+859,858,859,36,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,GUANAJUATO,MANUEL DOBLADO,Manuel Doblado,1710,-101.8333333,20.75,EJE NEOVOLCÁNICO,3,Bajio y Altos de Jalisco,6,VI
+860,859,860,165,0,0,Balsas,Zea mays subsp. Mexicana,0,0,NAYARIT,AMATLAN DE CAÑAS,3 Km este de Amatlán de Cañas,856,-104.3833333,20.78333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+861,860,861,110,0,0,Balsas,Zea mays subsp. Mexicana,0,0,NAYARIT,AMATLAN DE CAÑAS,Los Copales,900,-104.4,20.8,EJE NEOVOLCÁNICO,1,Occidente,5,V
+862,861,862,168,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,El Tablillo,1123,-104.5333333,20.8,EJE NEOVOLCÁNICO,1,Occidente,5,V
+863,862,863,26,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,"El Tablillo, Huerta de Villegas",1090,-104.55,20.8,EJE NEOVOLCÁNICO,1,Occidente,5,V
+864,863,864,25,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,MASCOTA,"Zacatongo 2 Km sur-suroeste, arroyo El Pujillo",620,-104.5833333,20.8,EJE NEOVOLCÁNICO,1,Occidente,5,V
+865,864,865,166,0,0,Balsas,Zea mays subsp. Mexicana,0,0,NAYARIT,AMATLAN DE CAÑAS,"Amatlán de Cañas, junto al panteón",880,-104.4,20.81666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+866,865,866,497,0,0,Balsas,Zea mays subsp. Mexicana,0,0,NAYARIT,AMATLÁN DE CAÑAS,Amatlán de Cañas,880,-104.4136111,20.81944444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+867,866,867,498,0,0,Balsas,Zea mays subsp. Mexicana,0,0,NAYARIT,AMATLÁN DE CAÑAS,Amatlán de Cañas,880,-104.4136111,20.81944444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+868,867,868,499,0,0,Balsas,Zea mays subsp. Mexicana,0,0,NAYARIT,AMATLÁN DE CAÑAS,Amatlán de Cañas,880,-104.4136111,20.81944444,EJE NEOVOLCÁNICO,1,Occidente,5,V
+869,868,869,27,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,"7 Km noreste Zacatongo, camino a Tepuzhuacán",1000,-104.55,20.83333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+870,869,870,167,0,0,Balsas,Zea mays subsp. Mexicana,0,0,JALISCO,GUACHINANGO,"El Rodeo, Km 7 Tepuzhuacán-El Tablillo",888,-104.55,20.83333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+871,870,871,731,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,AMATITAN,Amatitán,1252,-103.7666667,20.85,EJE NEOVOLCÁNICO,1,Occidente,5,V
+872,871,872,732,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,AMATITAN,Amatitán,1252,-103.7666667,20.85,EJE NEOVOLCÁNICO,1,Occidente,5,V
+873,872,873,733,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,TEQUILA,Tequila,1210,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+874,873,874,817,0,0,Tripsacum bravum,Tripsacum,0,0,JALISCO,TEQUILA,La Toma,1200,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+875,874,875,819,0,0,Tripsacum bravum,Tripsacum,0,0,JALISCO,TEQUILA,La Toma,1200,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+876,875,876,822,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,TEQUILA,La Toma,1200,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+877,876,877,824,0,0,Tripsacum pilosum,Tripsacum,0,0,JALISCO,TEQUILA,La Toma,1200,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+878,877,878,828,0,0,Tripsacum bravum,Tripsacum,0,0,JALISCO,TEQUILA,La Toma,1200,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+879,878,879,830,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,TEQUILA,La Toma,1200,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+880,879,880,856,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,JALISCO,TEQUILA,La Toma,1200,-103.85,20.91666667,EJE NEOVOLCÁNICO,1,Occidente,5,V
+881,880,881,734,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,JALISCO,HOSTOTIPAQUILLO,Santo Tomas,1233,-104.1,21,EJE NEOVOLCÁNICO,1,Occidente,5,V
+882,881,882,1121,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,AHUACATLÁN,"Km 7.6, carretera Ahuacatlán-Amatlán de Cañas",1334,-104.4833889,21.00313889,SIERRA MADRE DEL SUR,1,Occidente,5,V
+883,882,883,735,0,0,Tripsacum maizar,Tripsacum,0,0,JALISCO,HOSTOTIPAQUILLO,Hostotipaquillo,1206,-104.2166667,21.03333333,EJE NEOVOLCÁNICO,1,Occidente,5,V
+884,883,884,833,0,0,Tripsacum maizar,Tripsacum,0,0,JALISCO,HOSTOTIPAQUILLO,San José de Gracia,1200,-104.25,21.05,EJE NEOVOLCÁNICO,1,Occidente,5,V
+885,884,885,876,0,0,Tripsacum maizar,Tripsacum,0,0,JALISCO,HOSTOTIPAQUILLO,San José de Gracia,1200,-104.25,21.05,EJE NEOVOLCÁNICO,1,Occidente,5,V
+886,885,886,1122,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,JALA,Km 8 carretera Aguaje-Jomulco,1526,-104.3916667,21.09397222,SIERRA MADRE OCCIDENTAL,1,Occidente,5,V
+887,886,887,758,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,QUERÉTARO ARTEAGA,PINAL DE AMOLES,Escanelilla,1150,-99.58333333,21.16666667,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+888,887,888,759,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,QUERÉTARO ARTEAGA,PINAL DE AMOLES,Ahuacatlan,1150,-99.58333333,21.16666667,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+889,888,889,760,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,QUERÉTARO ARTEAGA,PINAL DE AMOLES,Ahuacatlan,1150,-99.58333333,21.16666667,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+890,889,890,795,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,QUERÉTARO ARTEAGA,PINAL DE AMOLES,Escanelilla,1150,-99.58333333,21.16666667,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+891,890,891,799,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,QUERÉTARO ARTEAGA,PINAL DE AMOLES,Ahuacatlan,1150,-99.58333333,21.16666667,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+892,891,892,1123,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,JALA,"Mirador La Joya 1 Valle, km 123, carretera Guadalajara-Tepic",1312,-104.5445833,21.18302778,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+893,892,893,1124,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,JALA,"Mirador La Joya 2 Valle, 400 m de la bajada rumbo a camino a Tegupexpan",1312,-104.5445833,21.18302778,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+894,893,894,1125,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,JALA,"Camino La Joya-Tequepexpan, 2.9 km de la entrada al Valle de la Joya, camino rumbo Valle de la Joya a Tequepexpan",1352,-104.5466667,21.19652778,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+895,894,895,889,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,QUERÉTARO ARTEAGA,JALPAN DE SERRA,Jalpan,1212,-99.51461111,21.20730556,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+896,895,896,1115,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,SANTA MARÍA DEL ORO,"Carretera 15, km 79.2, carretera Guadalajara-Tepic (libre) entre Chapalilla y Jazmines",1045,-104.6439722,21.21219444,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+897,896,897,1116,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,SANTA MARÍA DEL ORO,"Carretera Internacional 15, km 180.4 Guadalajara-Tepic carretera Internacional 15 entre Chapalilla-Ocotillo",1095,-104.6412778,21.21691667,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+898,897,898,1117,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,SANTA MARÍA DEL ORO,"Restaurante, km 187.2, carretera Guadalajara-Tepic",1271,-104.6492222,21.27419444,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+899,898,899,890,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,QUERÉTARO ARTEAGA,LANDA DE MATAMOROS,Landa de Matamoros,1580,-99.20483333,21.27330556,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+900,899,900,1118,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,SANTA MARïA DEL ORO,"Monte de los Cuartos carretera 15 Guadalajara-Tepic, tramo restaurante El Borrego",1227,-104.6525,21.30308333,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+901,900,901,1105,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,XALISCO,"Refilión, km 27, carretera Tepic-Compostela, aproximadamente 1 km antes de llegar a Refilión",821,-104.9158889,21.30758333,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+902,901,902,1106,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,XALISCO,"Refilión 2, km 26.9, carretera Tepic-Compostela, lado izquierdo Tepic-Compostela",865,-104.9168056,21.30977778,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+903,902,903,1107,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,XALISCO,"Refilión, km 26.3, carretera Tepic-Compostela",893,-104.9186111,21.31383333,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+904,903,904,1108,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,XALISCO,"Entre La Curva y Refilión, km 23.7, 4 km antes de Refilión carretera Tepic-Compostela donde inicia el bajo de curvas",1018,-104.9213889,21.32783333,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+905,904,905,1109,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,XALISCO,Km 23 carretera Tepic-Compostela,1032,-104.9159722,21.33161111,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+906,905,906,1110,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,XALISCO,"Camino al Malinal, km 4.5, camino Xalisco-Malinal por Mariano Escobedo calle del centro, loma en frente del rancho \Los Sauces de Arriba\""""",1034,-104.9159722,21.33163889,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+907,906,907,1114,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,SANTA MARIA DEL ORO,"Km 15 carretera Samao-La Laguna, rumbo a La Laguna km 15 lado derecho",1048,-104.5600833,21.33866667,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+908,907,908,1113,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,SANTA MARÍA DEL ORO,"Carretera Samao-La Laguna, km 15.5, 100 m antes de la entrada al Rancho La Mezcalera",1022,-104.5618333,21.34027778,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+909,908,909,1112,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,SANTA MARIA DEL ORO,"La Laguna, km 16.05, carretera Santa María del Oro-La Laguna",973,-104.5657778,21.34477778,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+910,909,910,1111,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,XALISCO,"Camino Xalisco al Malinal, km 5.1 lado derecho a 50 m de lavadero del jal",1034,-104.9485278,21.43036111,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+911,910,911,1101,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Camino Camichín de Jauja-San Luis de Lozada, km 7.4, carretera Tepic-Camichín-San Luis de Lozada",991,-104.7853611,21.4955,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+912,911,912,1100,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Camino Camichín de Jauja-San Luís de Lozada, km 10.4, carretera Tepic-Camichí-San Luis de Lozada",1167,-104.7575833,21.49986111,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+913,912,913,1096,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Ejido La Cantera, segunda curva rumbo a Mora (poste 53) enfrente de la bloquera San Juan y de entrada al Club de Aeromodelismo",955,-104.8153889,21.50308333,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+914,913,914,1103,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Tepic, Cerro de la Cruz, N de la ciudad de Tepic en el Cerro de la Cruz subiendo empedrado",1126,-104.8838056,21.53494444,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+915,914,915,1104,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Tepic, Cerro de la Cruz, N de la ciudad de Tepic en la cima del Cerro de la Cruz",1126,-104.8838056,21.53494444,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+916,915,916,1087,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"La Fortuna, carretera libre Tepic-Mazatlán antes del km. 6.9",825,-104.9338889,21.55313889,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+917,916,917,1088,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"El Rincón, km 9.6, carretera Internacional #15, Tepic-Mazatlán, 1.5 km adelante del Ejido El Rincón enfrente del crucero La Escondida",817,-104.9316111,21.57377778,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+918,917,918,1089,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"El Rincón, km. 9.6 carretera Internacional # 15",817,-104.9316111,21.57377778,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+919,918,919,1090,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"La Villita, arriba de La Villita, km 14.5 carretera # 15",708,-104.9525833,21.60730556,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+920,919,920,1097,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Atonalisco, km 24.2, carretera Tepic-Aguamilpa",558,-104.8203611,21.61919444,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+921,920,921,1098,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Atonalisco 2, huerta de mangos, km 2.5 de la Huerta de Mangos",577,-104.8240278,21.62016667,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+922,921,922,1091,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"La Herradura, carretera # 15, antes de la primera curva de La Herradura",633,-104.9645833,21.61844444,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+923,922,923,1102,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Atonalisco, cerca de la aviación del Aguacate",572,-104.8231667,21.62113889,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+924,923,924,742,0,0,Tripsacum maizar,Tripsacum,0,0,NAYARIT,TEPIC,Mirador El Aguila,582,-104.9666667,21.63333333,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+925,924,925,1092,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"El Mirador del Águila, enfrente de El Mirador del Águila por la carretera # 15",586,-104.9734194,21.64505556,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+926,925,926,741,0,0,Tripsacum bravum,Tripsacum,0,0,NAYARIT,TEPIC,Buenos Aires,542,-104.9833333,21.65,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+927,926,927,764,0,0,Tripsacum bravum,Tripsacum,0,0,NAYARIT,TEPIC,Buenos Aires,550,-104.9833333,21.65,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+928,927,928,1095,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"El Limón, km 27.5, carretera # 15",492,-104.01525,21.66855556,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+929,928,929,1093,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Buenos Aires, atrás del primer restaurante, carretera # 15, km, 23.5, lado izquierdo del S a N 100 m antes del restaurante \El Sesteo\""""",588,-104.9883333,21.65380556,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+930,929,930,1094,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Buenos Aires, km. 24.8, carretera # 15",541,-104.9961389,21.66244444,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+931,930,931,1099,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,TEPIC,"Atonalisco, km 14.4 pasando el poblado de Atonalisco 150 m de la vía del tren lado derecho carretera Aguamilpa enfrente de la huerta nanchi y mango",1293,-104.8450833,21.68505556,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+932,931,932,1126,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,JALA,"Km 43.1 carretera Libre Tepic-Mazatlán, km 43.1 tramo Mojarritas-Crucero Villa Hidalgo, lado izquierdo de S a N",121,-105.0876389,21.77513889,EJE NEOVOLCÁNICO,9,Sierras y llanuras del Noroeste,4,IV
+933,932,933,1119,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,AHUACATLÁN,"Carretera Ahuatlán, km 14.2, carretera Ahuacatlán-Amatlán de Cañas",1437,-104.4675278,21.97555,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+934,933,934,1120,0,0,Tripsacum sp,Tripsacum,0,0,NAYARIT,AHUACATLÁN,"Km 13.85, carretera Ahuacatlán-Amatlán de Cañas",1442,-104.4689444,21.97772222,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+935,934,935,847,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,SAN LUIS POTOSÍ,CIUDAD VALLES,San Felipe,100,-98.95,21.98333333,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+936,935,936,772,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,SAN LUIS POTOSÍ,CIUDAD VALLES,Micos,600,-99.08333333,22.08333333,LLANURA COSTERA DEL GOLFO NORTE,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+937,936,937,891,0,0,Tripsacum lanceolatum,Tripsacum,0,0,SAN LUIS POTOSÍ,CIUDAD VALLES,Laguna del Mante,284,-98.97458333,22.15808333,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+938,937,938,798,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,SAN LUIS POTOSÍ,CIUDAD VALLES,Laguna del Mante,100,-98.98333333,22.2,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+939,938,939,892,0,0,Tripsacum lanceolatum,Tripsacum,0,0,SAN LUIS POTOSÍ,CIUDAD VALLES,Laguna del Mante,290,-99.00108333,22.22441667,SIERRA MADRE ORIENTAL,4,Llanuras y sierras con vertiente al Golfo,8,VIII
+940,939,940,893,0,0,Tripsacum lanceolatum,Tripsacum,0,0,SAN LUIS POTOSÍ,CIUDAD DEL MAIZ,Puente las Barbaritas,1095,-99.50827778,22.47330556,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+941,940,941,894,0,0,Tripsacum lanceolatum,Tripsacum,0,0,SAN LUIS POTOSÍ,CIUDAD DEL MAIZ,Agua Zarca,1117,-99.46638889,22.49147222,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+942,941,942,895,0,0,Tripsacum lanceolatum,Tripsacum,0,0,SAN LUIS POTOSÍ,EL NARANJO,El Naranjo,690,-99.37980556,22.49744444,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+943,942,943,896,0,0,Tripsacum lanceolatum,Tripsacum,0,0,TAMAULIPAS,NUEVO MORELOS,Nuevo Morelos,4504,-99.14777778,22.55422222,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+944,943,944,496,0,0,NA,Zea mays subsp. Mexicana,0,0,NAYARIT,HUAJICORI,San Andrés Milpillas,1394,-105.1141667,22.85694444,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+945,944,945,494,0,0,NA,Zea mays subsp. Mexicana,0,0,NAYARIT,HUAJICORI,San Andrés Milpillas,1400,-105.1125,22.85944444,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+946,945,946,495,0,0,NA,Zea mays subsp. Mexicana,0,0,NAYARIT,HUAJICORI,San Andrés Milpillas,1400,-105.1216667,22.86055556,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+947,946,947,948,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,JAUMAVE,"Reserva de la Biósfera \El Cielo\""""",1528,-99.28555556,23.17527778,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+948,947,948,950,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,CASAS,"Sierra de Tamaulipas, Valle de San José2",865,-98.44588889,23.31955556,LLANURA COSTERA DEL GOLFO NORTE,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+949,948,949,949,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,CASAS,"Sierra de Tamaulipas, Valle de San José1",855,-98.44502778,23.32380556,LLANURA COSTERA DEL GOLFO NORTE,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+950,949,950,736,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,SINALOA,CONCORDIA,Concordia,412,-105.95,23.36666667,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+951,950,951,738,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,SINALOA,CONCORDIA,Mesa del Carrizal,1067,-105.8666667,23.4,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+952,951,952,737,0,0,Tripsacum dactyloides mexicanum,Tripsacum,0,0,SINALOA,CONCORDIA,Concordia,770,-105.9,23.4,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+953,952,953,754,0,0,Tripsacum lanceolatum,Tripsacum,0,0,DURANGO,MEZQUITAL,Agua Zarca,1950,-104.4666667,23.43333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+954,953,954,805,0,0,Tripsacum lanceolatum,Tripsacum,0,0,DURANGO,MEZQUITAL,Agua Zarca,1950,-104.4666667,23.43333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+955,954,955,739,0,0,Tripsacum laxum,Tripsacum,0,0,SINALOA,CONCORDIA,Chirimollos,1299,-105.8333333,23.43333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+956,955,956,740,0,0,Tripsacum lanceolatum,Tripsacum,0,0,SINALOA,CONCORDIA,Chirimollos,1299,-105.8333333,23.43333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+957,956,957,808,0,0,Tripsacum pilosum,Tripsacum,0,0,SINALOA,CONCORDIA,Chirimollos,1250,-105.85,23.45,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+958,957,958,827,0,0,Tripsacum pilosum,Tripsacum,0,0,SINALOA,CONCORDIA,Chirimollos,1250,-105.85,23.45,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+959,958,959,855,0,0,Tripsacum pilosum,Tripsacum,0,0,SINALOA,CONCORDIA,Chirimollos,1250,-105.85,23.45,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+960,959,960,751,0,0,Tripsacum pilosum,Tripsacum,0,0,SINALOA,CONCORDIA,Potrerillos,1400,-105.85,23.48333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+961,960,961,752,0,0,Tripsacum pilosum,Tripsacum,0,0,SINALOA,CONCORDIA,Loberas,1850,-105.85,23.48333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+962,961,962,807,0,0,Tripsacum pilosum,Tripsacum,0,0,SINALOA,CONCORDIA,Potrerillos,1400,-105.85,23.48333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+963,962,963,944,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,VICTORIA,"Sierra Madre Oriental, sitio 3 \Post-Santuario\""""",1185,-99.20386111,23.61272222,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+964,963,964,945,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,VICTORIA,"Sierra Madre Oriental, sitio 4 \El Nogalito\""""",1197,-99.20272222,23.61311111,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+965,964,965,943,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,VICTORIA,"Sierra Madre Oriental, sitio 2 \Santuario\""""",1070,-99.20416944,23.62661111,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+966,965,966,942,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,VICTORIA,"Sierra Madre Oriental, sitio 1 \Pre-Santuario\""""",895,-99.19927222,23.628675,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+967,966,967,946,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,VICTORIA,"Sierra Madre Oriental, sitio 5 \Rancho La Menta\""""",876,-99.26588889,23.72288889,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+968,967,968,947,0,0,Tripsacum dactyloides hispidum,Tripsacum,0,0,TAMAULIPAS,VICTORIA,"Sierra Madre Oriental, sitio 6 \La Pared\""""",522,-99.27888889,23.72666667,SIERRA MADRE ORIENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+969,968,969,829,0,0,Tripsacum lanceolatum,Tripsacum,0,0,DURANGO,DURANGO,Río Chico,2100,-104.85,23.95,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+970,969,970,756,0,0,Tripsacum lanceolatum,Tripsacum,0,0,DURANGO,DURANGO,Las Mangas,2250,-104.7833333,23.98333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+971,970,971,809,0,0,Tripsacum lanceolatum,Tripsacum,0,0,DURANGO,DURANGO,Las Mangas,2250,-104.7833333,23.98333333,SIERRA MADRE OCCIDENTAL,9,Sierras y llanuras del Noroeste,4,IV
+972,971,972,41,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,DURANGO,DURANGO,Puente Gavilanes,1876,-104.4833333,24.01666667,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+973,972,973,146,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,DURANGO,DURANGO,Puente Gavilanes,1875,-104.4833333,24.01666667,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+974,973,974,1,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,DURANGO,DURANGO,Puente Dalila-Hda. de Dolores,1887,-104.5666667,24.01666667,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+975,974,975,42,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,DURANGO,DURANGO,Puente Dalila-Hda. de Dolores,1887,-104.5666667,24.01666667,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+976,975,976,755,0,0,Tripsacum lanceolatum,Tripsacum,0,0,DURANGO,DURANGO,Nacozari,1900,-104.45,24.03333333,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+977,976,977,43,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,DURANGO,DURANGO,"Nuevo Francisco Villa, 3 Km este",1875,-104.4833333,24.08333333,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+978,977,978,147,0,0,Mesa-Central,Zea mays subsp. Mexicana,0,0,DURANGO,DURANGO,"Nuevo Francisco Villa, 3 Km este",1875,-104.4833333,24.08333333,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+979,978,979,753,0,0,Tripsacum bravum,Tripsacum,0,0,DURANGO,DURANGO,Peña del Águila,1900,-104.6666667,24.2,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+980,979,980,810,0,0,Tripsacum bravum,Tripsacum,0,0,DURANGO,DURANGO,Peña del Águila,1900,-104.6666667,24.2,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+981,980,981,1075,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,Carretera Gudalupe y Calvo camino a Nabogame,2200,-106.9481389,26.17930556,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+982,981,982,1076,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,Carretera entrada al arroyo Tarahumares,1927,-106.9535278,26.20769444,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+983,982,983,587,0,0,Nobogame,Zea mays subsp. Mexicana,0,0,CHIHUAHUA,GUADALUPE Y CALVO,Arrollo Tarahumares (Casa Blanca-Tarahumares),1928,-106.9425,26.21611111,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+984,983,984,144,0,0,Nobogame,Zea mays subsp. Mexicana,0,0,CHIHUAHUA,GUADALUPE Y CALVO,"Nabogame, arroyo Tarahumares",1950,-106.9333333,26.21666667,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+985,984,985,227,0,0,Nobogame,Zea mays subsp. Mexicana,0,0,CHIHUAHUA,GUADALUPE Y CALVO,"Nabogame, arroyo Tarahumares",1850,-106.9333333,26.21666667,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+986,985,986,143,0,0,Nobogame,Zea mays subsp. Mexicana,0,0,CHIHUAHUA,GUADALUPE Y CALVO,"Nabogame, arroyo Tejamanil-La Rinconada",1919,-106.95,26.21666667,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+987,986,987,40,0,0,Nobogame,Zea mays subsp. Mexicana,0,0,CHIHUAHUA,GUADALUPE Y CALVO,"Nabogame, arroyo Tejamanil-La Rinconada",1919,-106.9666667,26.21666667,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+988,987,988,586,0,0,Nobogame,Zea mays subsp. Mexicana,0,0,CHIHUAHUA,GUADALUPE Y CALVO,Tarahumares,1951,-106.9322222,26.22305556,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+989,988,989,585,0,0,Nobogame,Zea mays subsp. Mexicana,0,0,CHIHUAHUA,GUADALUPE Y CALVO,Arroyo Tejamanil (ca. La Rinconada),1920,-106.9622222,26.22833333,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+990,989,990,1078,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,Km 149,2240,-106.4902778,26.28444444,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+991,990,991,1077,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 24, km 147.6, a 1 km del puente",2440,-106.4788889,26.28861111,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+992,991,992,1074,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 24, km. 87",2015,-106.2706389,26.61938889,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+993,992,993,1073,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 24, Parral-Guadalupe y Calvo, km 78.5, 79.5 y 5.80",1770,-106.2291389,26.65341667,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+994,993,994,1079,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 24, km 70.5",1950,-106.1325,26.69930556,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+995,994,995,1080,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 24, km 55.5",2280,-106.1108611,26.70813889,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+996,995,996,1070,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 432, km 34",1698,-106.2720833,26.8655,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+997,996,997,1072,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 432, km 25.5",1814,-106.22125,26.87558333,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+998,997,998,1067,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 432 Balleza-Guachochi, km 63.3",1920,-106.4641944,26.94905556,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+999,998,999,1069,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 432, km 51.5, puente \El Reventón\"" salida",1580,-106.3796667,26.95730556,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+1000,999,1000,1068,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 432, km 56.1",1644,-106.4185833,26.96041667,SIERRA MADRE OCCIDENTAL,2,Altiplano sierras y lomerios del Norte de Mexico,3,III
+1001,1000,1001,1066,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 127 Creel San Rafael, km 14.4",2375,-107.7231667,27.67213889,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1002,1001,1002,1065,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 16, cerca del arroyo Basaseachi",2068,-108.2131389,28.18097222,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1003,1002,1003,1054,0,0,Tripsacum sp,Tripsacum,0,0,CHIHUAHUA,YECORA,"Carretera México 16, km 285 Chih., carretera Cahuisori, Chih.-Yécora, Son.",2070,-109.2679444,28.23666667,SIERRA MADRE OCCIDENTAL,8,Sierras y cañadas del Noroeste,1,I
+1004,1003,1004,1055,0,0,Tripsacum sp,Tripsacum,0,0,CHIHUAHUA,NA,"Carretera México 16, km 302",2135,-108.2613611,28.31888889,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1005,1004,1005,1056,0,0,Tripsacum sp,Tripsacum,0,0,CHIHUAHUA,NA,"Carretera México 16, km 303",2080,-108.2601944,28.32638889,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1006,1005,1006,1057,0,0,Tripsacum sp,Tripsacum,0,0,CHIHUAHUA,NA,"Carretera México 16, km 305",1915,-108.2666667,28.33658333,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1007,1006,1007,1058,0,0,Tripsacum sp,Tripsacum,0,0,CHIHUAHUA,NA,"Carretera México 16, km 307",1650,-108.2718611,28.34152778,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1008,1007,1008,1060,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México, km 308.5 Son., Puente Talayotes.",1228,-108.7605833,28.37630556,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1009,1008,1009,1062,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,Carretera México,1274,-108.7892222,28.38788889,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1010,1009,1010,1061,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México, km 301 Son. (puente)",1305,-108.7956944,28.39944444,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1011,1010,1011,1059,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México, km 314.7",1520,-108.7335278,28.40447222,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1012,1011,1012,1064,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México, km 349",1650,-108.5146667,28.43169444,SIERRA MADRE OCCIDENTAL,11,Sierras cañadas y mesetas de Chihuahua,2,II
+1013,1012,1013,1071,0,0,Tripsacum sp,Tripsacum,0,0,SONORA,NA,"Carretera México 432, km 29.5",1720,-106.2426389,28.88969444,SIERRAS Y LLANURAS DEL NORTE,2,Altiplano sierras y lomerios del Norte de Mexico,3,III

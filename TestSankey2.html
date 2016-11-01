@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body> 
+ <style>
+#body {
+height: 500px;
+}
+.node rect {
+cursor: move;
+fill-opacity: .9;
+shape-rendering: crispEdges;
+}
+.node text {
+font: 10px serif;
+pointer-events: none;
+text-shadow: 0 1px 0 #fff;
+}
+.link {
+fill: none;
+stroke: #000;
+stroke-opacity: .2;
+}
+.link:hover {
+stroke-opacity: .5;
+}
+</style>
+
+<p id="body"></p>
+
+<script src=http://d3js.org/d3.v3.min.js></script>
+ <script>
+d3.sankey = function() {
+var sankey = {},
+nodeWidth = 24,
+nodePadding = 8,
+size = [1, 1],
+nodes = [],
+links = [];
+
+sankey.nodeWidth = function(_) {
+if (!arguments.length) return nodeWidth;
+nodeWidth = +_;
+return sankey;
+};
+
+sankey.nodePadding = function(_) {
+if (!arguments.length) return nodePadding;
+nodePadding = +_;
+return sankey;
+};
+
+sankey.nodes = function(_) {
+if (!arguments.length) return nodes;
+nodes = _;
+return sankey;
+};
+
+sankey.links = function(_) {
+if (!arguments.length) return links;
+links = _;
+return sankey;
+};
+
+sankey.size = function(_) {
+if (!arguments.length) return size;
+size = _;
+return sankey;
+};
+
+sankey.layout = function(iterations) {
+computeNodeLinks();
+computeNodeValues();
+computeNodeBreadths();
+computeNodeDepths(iterations);
+computeLinkDepths();
+return sankey;
+};
+
+sankey.relayout = function() {
+computeLinkDepths();
+return sankey;
+};
+
+sankey.link = function() {
+var curvature = .5;
+
+function link(d) {
+var x0 = d.source.x + d.source.dx,
+x1 = d.target.x,
+xi = d3.interpolateNumber(x0, x1),
+x2 = xi(curvature),
+x3 = xi(1 - curvature),
+y0 = d.source.y + d.sy + d.dy / 2,
+y1 = d.target.y + d.ty + d.dy / 2;
+return "M" + x0 + "," + y0
++ "C" + x2 + "," + y0
++ " " + x3 + "," + y1
++ " " + x1 + "," + y1;
+}
+
+link.curvature = function(_) {
+if (!arguments.length) return curvature;
+curvature = +_;
+return link;
+};
+
+return link;
+};
+
+// Populate the sourceLinks and targetLinks for each node.
+// Also, if the source and target are not objects, assume they are indices.
+function computeNodeLinks() {
+nodes.forEach(function(node) {
+node.sourceLinks = [];
+node.targetLinks = [];
+});
+links.forEach(function(link) {
+var source = link.source,
+target = link.target;
+if (typeof source === "number") source = link.source = nodes[link.source];
+if (typeof target === "number") target = link.target = nodes[link.target];
+source.sourceLinks.push(link);
+target.targetLinks.push(link);
+});
+}
+
+// Compute the value (size) of each node by summing the associated links.
+function computeNodeValues() {
+nodes.forEach(function(node) {
+node.value = Math.max(
+d3.sum(node.sourceLinks, value),
+d3.sum(node.targetLinks, value)
+);
+});
+}
+
+// Iteratively assign the breadth (x-position) for each node.
+// Nodes are assigned the maximum breadth of incoming neighbors plus one;
+// nodes with no incoming links are assigned breadth zero, while
+// nodes with no outgoing links are assigned the maximum breadth.
+function computeNodeBreadths() {
+var remainingNodes = nodes,
+nextNodes,
+x = 0;
+
+while (remainingNodes.length) {
+nextNodes = [];
+remainingNodes.forEach(function(node) {
+node.x = x;
+node.dx = nodeWidth;
+node.sourceLinks.forEach(function(link) {
+nextNodes.push(link.target);
+});
+});
+remainingNodes = nextNodes;
+++x;
+}
+
+//
+moveSinksRight(x);
+scaleNodeBreadths((width - nodeWidth) / (x - 1));
+}
+
+function moveSourcesRight() {
+nodes.forEach(function(node) {
+if (!node.targetLinks.length) {
+node.x = d3.min(node.sourceLinks, function(d) { return d.target.x; }) - 1;
+}
+});
+}
+
+function moveSinksRight(x) {
+nodes.forEach(function(node) {
+if (!node.sourceLinks.length) {
+node.x = x - 1;
+}
+});
+}
+
+function scaleNodeBreadths(kx) {
+nodes.forEach(function(node) {
+node.x *= kx;
+});
+}
+
+function computeNodeDepths(iterations) {
+var nodesByBreadth = d3.nest()
+.key(function(d) { return d.x; })
+.sortKeys(d3.ascending)
+.entries(nodes)
+.map(function(d) { return d.values; });
+
+//
+initializeNodeDepth();
+resolveCollisions();
+for (var alpha = 1; iterations > 0; --iterations) {
+relaxRightToLeft(alpha *= .99);
+resolveCollisions();
+relaxLeftToRight(alpha);
+resolveCollisions();
+}
+
+function initializeNodeDepth() {
+var ky = d3.min(nodesByBreadth, function(nodes) {
+return (size[1] - (nodes.length - 1) * nodePadding) / d3.sum(nodes, value);
+});
+
+nodesByBreadth.forEach(function(nodes) {
+nodes.forEach(function(node, i) {
+node.y = i;
+node.dy = node.value * ky;
+});
+});
+
+links.forEach(function(link) {
+link.dy = link.value * ky;
+});
+}
+
+function relaxLeftToRight(alpha) {
+nodesByBreadth.forEach(function(nodes, breadth) {
+nodes.forEach(function(node) {
+if (node.targetLinks.length) {
+var y = d3.sum(node.targetLinks, weightedSource) / d3.sum(node.targetLinks, value);
+node.y += (y - center(node)) * alpha;
+}
+});
+});
+
+function weightedSource(link) {
+return center(link.source) * link.value;
+}
+}
+
+function relaxRightToLeft(alpha) {
+nodesByBreadth.slice().reverse().forEach(function(nodes) {
+nodes.forEach(function(node) {
+if (node.sourceLinks.length) {
+var y = d3.sum(node.sourceLinks, weightedTarget) / d3.sum(node.sourceLinks, value);
+node.y += (y - center(node)) * alpha;
+}
+});
+});
+
+function weightedTarget(link) {
+return center(link.target) * link.value;
+}
+}
+
+function resolveCollisions() {
+nodesByBreadth.forEach(function(nodes) {
+var node,
+dy,
+y0 = 0,
+n = nodes.length,
+i;
+
+// Push any overlapping nodes down.
+nodes.sort(ascendingDepth);
+for (i = 0; i < n; ++i) {
+node = nodes[i];
+dy = y0 - node.y;
+if (dy > 0) node.y += dy;
+y0 = node.y + node.dy + nodePadding;
+}
+
+// If the bottommost node goes outside the bounds, push it back up.
+dy = y0 - nodePadding - size[1];
+if (dy > 0) {
+y0 = node.y -= dy;
+
+// Push any overlapping nodes back up.
+for (i = n - 2; i >= 0; --i) {
+node = nodes[i];
+dy = node.y + node.dy + nodePadding - y0;
+if (dy > 0) node.y -= dy;
+y0 = node.y;
+}
+}
+});
+}
+
+function ascendingDepth(a, b) {
+return a.y - b.y;
+}
+}
+
+function computeLinkDepths() {
+nodes.forEach(function(node) {
+node.sourceLinks.sort(ascendingTargetDepth);
+node.targetLinks.sort(ascendingSourceDepth);
+});
+nodes.forEach(function(node) {
+var sy = 0, ty = 0;
+node.sourceLinks.forEach(function(link) {
+link.sy = sy;
+sy += link.dy;
+});
+node.targetLinks.forEach(function(link) {
+link.ty = ty;
+ty += link.dy;
+});
+});
+
+function ascendingSourceDepth(a, b) {
+return a.source.y - b.source.y;
+}
+
+function ascendingTargetDepth(a, b) {
+return a.target.y - b.target.y;
+}
+}
+
+function center(node) {
+return node.y + node.dy / 2;
+}
+
+function value(link) {
+return link.value;
+}
+
+return sankey;
+};
+</script>
+
+<script>
+
+ var links = [ { "source" : 55, "target" : 0, "value" : 322 }, { "source" : 70, "target" : 1, "value" : 64 }, { "source" : 21, "target" : 2, "value" : 306 }, { "source" : 70, "target" : 3, "value" : 99 }, { "source" : 55, "target" : 5, "value" : 41 }, { "source" : 55, "target" : 6, "value" : 37 }, { "source" : 55, "target" : 7, "value" : 526 }, { "source" : 21, "target" : 8, "value" : 62 }, { "source" : 26, "target" : 9, "value" : 914 }, { "source" : 21, "target" : 11, "value" : 607 }, { "source" : 13, "target" : 12, "value" : 29 }, { "source" : 26, "target" : 14, "value" : 43 }, { "source" : 26, "target" : 15, "value" : 5 }, { "source" : 97, "target" : 16, "value" : 1269 }, { "source" : 70, "target" : 17, "value" : 18 }, { "source" : 96, "target" : 18, "value" : 117 }, { "source" : 21, "target" : 19, "value" : 1928 }, { "source" : 21, "target" : 20, "value" : 1164 }, { "source" : 97, "target" : 23, "value" : 118 }, { "source" : 70, "target" : 24, "value" : 310 }, { "source" : 26, "target" : 25, "value" : 61 }, { "source" : 21, "target" : 27, "value" : 42 }, { "source" : 13, "target" : 28, "value" : 34 }, { "source" : 97, "target" : 29, "value" : 106 }, { "source" : 13, "target" : 31, "value" : 77 }, { "source" : 21, "target" : 32, "value" : 559 }, { "source" : 55, "target" : 33, "value" : 392 }, { "source" : 70, "target" : 34, "value" : 69 }, { "source" : 55, "target" : 36, "value" : 2 }, { "source" : 55, "target" : 37, "value" : 39 }, { "source" : 97, "target" : 44, "value" : 9 }, { "source" : 21, "target" : 45, "value" : 4 }, { "source" : 97, "target" : 46, "value" : 5 }, { "source" : 70, "target" : 47, "value" : 8 }, { "source" : 21, "target" : 48, "value" : 375 }, { "source" : 21, "target" : 49, "value" : 54 }, { "source" : 96, "target" : 50, "value" : 136 }, { "source" : 26, "target" : 51, "value" : 19 }, { "source" : 21, "target" : 52, "value" : 8 }, { "source" : 97, "target" : 53, "value" : 1 }, { "source" : 97, "target" : 56, "value" : 1099 }, { "source" : 97, "target" : 57, "value" : 570 }, { "source" : 55, "target" : 58, "value" : 84 }, { "source" : 21, "target" : 59, "value" : 6 }, { "source" : 21, "target" : 60, "value" : 3 }, { "source" : 21, "target" : 61, "value" : 45 }, { "source" : 26, "target" : 64, "value" : 302 }, { "source" : 97, "target" : 65, "value" : 1 }, { "source" : 96, "target" : 66, "value" : 437 }, { "source" : 13, "target" : 67, "value" : 86 }, { "source" : 97, "target" : 68, "value" : 8 }, { "source" : 97, "target" : 69, "value" : 31 }, { "source" : 55, "target" : 76, "value" : 43 }, { "source" : 55, "target" : 77, "value" : 592 }, { "source" : 55, "target" : 78, "value" : 181 }, { "source" : 97, "target" : 79, "value" : 43 }, { "source" : 26, "target" : 80, "value" : 515 }, { "source" : 26, "target" : 98, "value" : 3347 }, { "source" : 26, "target" : 99, "value" : 303 }, { "source" : 21, "target" : 100, "value" : 1 }, { "source" : 26, "target" : 101, "value" : 312 }, { "source" : 55, "target" : 102, "value" : 80 }, { "source" : 96, "target" : 103, "value" : 137 }, { "source" : 26, "target" : 104, "value" : 82 }, { "source" : 105, "target" : 4, "value" : 329 }, { "source" : 105, "target" : 10, "value" : 128 }, { "source" : 105, "target" : 42, "value" : 119 }, { "source" : 105, "target" : 54, "value" : 7 }, { "source" : 81, "target" : 82, "value" : 25 }, { "source" : 81, "target" : 83, "value" : 3 }, { "source" : 81, "target" : 84, "value" : 65 }, { "source" : 81, "target" : 85, "value" : 23 }, { "source" : 81, "target" : 86, "value" : 15 }, { "source" : 81, "target" : 87, "value" : 4 }, { "source" : 81, "target" : 88, "value" : 18 }, { "source" : 81, "target" : 89, "value" : 1 }, { "source" : 81, "target" : 90, "value" : 4 }, { "source" : 81, "target" : 91, "value" : 12 }, { "source" : 81, "target" : 92, "value" : 2 }, { "source" : 81, "target" : 93, "value" : 41 }, { "source" : 81, "target" : 94, "value" : 186 }, { "source" : 81, "target" : 95, "value" : 15 }, { "source" : 22, "target" : 21, "value" : 1 }, { "source" : 22, "target" : 26, "value" : 618 }, { "source" : 22, "target" : 55, "value" : 2 }, { "source" : 22, "target" : 70, "value" : 1 }, { "source" : 22, "target" : 96, "value" : 90 }, { "source" : 22, "target" : 97, "value" : 232 }, { "source" : 22, "target" : 81, "value" : 4 }, { "source" : 30, "target" : 13, "value" : 22 }, { "source" : 30, "target" : 21, "value" : 3404 }, { "source" : 30, "target" : 26, "value" : 882 }, { "source" : 30, "target" : 55, "value" : 752 }, { "source" : 30, "target" : 70, "value" : 23 }, { "source" : 30, "target" : 96, "value" : 15 }, { "source" : 30, "target" : 97, "value" : 114 }, { "source" : 30, "target" : 81, "value" : 86 }, { "source" : 30, "target" : 105, "value" : 337 }, { "source" : 35, "target" : 26, "value" : 54 }, { "source" : 35, "target" : 96, "value" : 36 }, { "source" : 35, "target" : 97, "value" : 1 }, { "source" : 38, "target" : 21, "value" : 1 }, { "source" : 38, "target" : 26, "value" : 438 }, { "source" : 38, "target" : 55, "value" : 6 }, { "source" : 38, "target" : 96, "value" : 111 }, { "source" : 38, "target" : 97, "value" : 128 }, { "source" : 38, "target" : 81, "value" : 3 }, { "source" : 39, "target" : 26, "value" : 343 }, { "source" : 39, "target" : 55, "value" : 3 }, { "source" : 39, "target" : 96, "value" : 42 }, { "source" : 39, "target" : 97, "value" : 99 }, { "source" : 39, "target" : 81, "value" : 4 }, { "source" : 40, "target" : 13, "value" : 33 }, { "source" : 40, "target" : 26, "value" : 22 }, { "source" : 40, "target" : 55, "value" : 91 }, { "source" : 40, "target" : 96, "value" : 1 }, { "source" : 41, "target" : 13, "value" : 9 }, { "source" : 41, "target" : 26, "value" : 1 }, { "source" : 41, "target" : 55, "value" : 14 }, { "source" : 43, "target" : 21, "value" : 422 }, { "source" : 43, "target" : 26, "value" : 102 }, { "source" : 43, "target" : 55, "value" : 26 }, { "source" : 43, "target" : 96, "value" : 11 }, { "source" : 62, "target" : 21, "value" : 2 }, { "source" : 62, "target" : 26, "value" : 6 }, { "source" : 62, "target" : 55, "value" : 10 }, { "source" : 63, "target" : 26, "value" : 482 }, { "source" : 63, "target" : 96, "value" : 94 }, { "source" : 63, "target" : 97, "value" : 101 }, { "source" : 71, "target" : 13, "value" : 67 }, { "source" : 71, "target" : 21, "value" : 537 }, { "source" : 71, "target" : 26, "value" : 1320 }, { "source" : 71, "target" : 55, "value" : 883 }, { "source" : 71, "target" : 70, "value" : 4 }, { "source" : 71, "target" : 96, "value" : 190 }, { "source" : 71, "target" : 97, "value" : 642 }, { "source" : 71, "target" : 81, "value" : 201 }, { "source" : 71, "target" : 105, "value" : 233 }, { "source" : 72, "target" : 13, "value" : 95 }, { "source" : 72, "target" : 21, "value" : 575 }, { "source" : 72, "target" : 26, "value" : 257 }, { "source" : 72, "target" : 55, "value" : 521 }, { "source" : 72, "target" : 70, "value" : 535 }, { "source" : 72, "target" : 96, "value" : 81 }, { "source" : 72, "target" : 97, "value" : 1 }, { "source" : 72, "target" : 81, "value" : 49 }, { "source" : 72, "target" : 105, "value" : 13 }, { "source" : 73, "target" : 21, "value" : 208 }, { "source" : 73, "target" : 26, "value" : 500 }, { "source" : 73, "target" : 55, "value" : 23 }, { "source" : 73, "target" : 96, "value" : 116 }, { "source" : 73, "target" : 97, "value" : 237 }, { "source" : 73, "target" : 81, "value" : 22 }, { "source" : 74, "target" : 21, "value" : 2 }, { "source" : 74, "target" : 26, "value" : 780 }, { "source" : 74, "target" : 55, "value" : 4 }, { "source" : 74, "target" : 96, "value" : 8 }, { "source" : 74, "target" : 97, "value" : 1703 }, { "source" : 74, "target" : 81, "value" : 44 }, { "source" : 75, "target" : 21, "value" : 12 }, { "source" : 75, "target" : 26, "value" : 98 }, { "source" : 75, "target" : 55, "value" : 4 }, { "source" : 75, "target" : 70, "value" : 5 }, { "source" : 75, "target" : 96, "value" : 32 }, { "source" : 75, "target" : 97, "value" : 2 }, { "source" : 75, "target" : 81, "value" : 1 } ] ; 
+ var nodes = [ { "name" : "Ancho" }, { "name" : "Apachito" }, { "name" : "Arrocillo Amarillo" }, { "name" : "Azul" }, { "name" : "Balsas" }, { "name" : "Blando" }, { "name" : "Bofo" }, { "name" : "Bolita" }, { "name" : "Cacahuacintle" }, { "name" : "Celaya" }, { "name" : "Chalco" }, { "name" : "Chalqueño" }, { "name" : "Chapalote" }, { "name" : "Chapalotes" }, { "name" : "Chiquito" }, { "name" : "Choapaneco" }, { "name" : "Comiteco" }, { "name" : "Complejo Serrano de Jalisco" }, { "name" : "Conejo" }, { "name" : "Cónico" }, { "name" : "Cónico Norteño" }, { "name" : "Cónicos" }, { "name" : "CORDILLERA CENTROAMERICANA" }, { "name" : "Coscomatepec" }, { "name" : "Cristalino de Chihuahua" }, { "name" : "Cubano Amarillo" }, { "name" : "Dentados tropicales" }, { "name" : "Dulce" }, { "name" : "Dulcillo del Noroeste" }, { "name" : "Dzit Bacal" }, { "name" : "EJE NEOVOLCÁNICO" }, { "name" : "Elotero de Sinaloa" }, { "name" : "Elotes Cónicos" }, { "name" : "Elotes Occidentales" }, { "name" : "Gordo" }, { "name" : "GRANDES LLANURAS DE NORTEAMÉRICA" }, { "name" : "Harinoso de Ocho" }, { "name" : "Jala" }, { "name" : "LLANURA COSTERA DEL GOLFO NORTE" }, { "name" : "LLANURA COSTERA DEL GOLFO SUR" }, { "name" : "LLANURA COSTERA DEL PACÍFICO" }, { "name" : "LLANURA SONORENSE" }, { "name" : "Mesa Central" }, { "name" : "MESA DEL CENTRO" }, { "name" : "Mixeño" }, { "name" : "Mixteco" }, { "name" : "Motozinteco" }, { "name" : "Mountain Yellow" }, { "name" : "Mushito" }, { "name" : "Mushito de Michoacan" }, { "name" : "Nal-tel" }, { "name" : "Nal-tel de Altura" }, { "name" : "Negrito" }, { "name" : "Negro de Chimaltenango" }, { "name" : "Nobogame" }, { "name" : "Ocho hileras" }, { "name" : "Olotillo" }, { "name" : "Olotón" }, { "name" : "Onaveño" }, { "name" : "Palomero de Chihuahua" }, { "name" : "Palomero de Jalisco" }, { "name" : "Palomero Toluqueño" }, { "name" : "PENÍNSULA DE BAJA CALIFORNIA" }, { "name" : "PENÍNSULA DE YUCATÁN" }, { "name" : "Pepitilla" }, { "name" : "Quicheño" }, { "name" : "Ratón" }, { "name" : "Reventador" }, { "name" : "Serrano" }, { "name" : "Serrano Mixe" }, { "name" : "Sierra Chihuahua" }, { "name" : "SIERRA MADRE DEL SUR" }, { "name" : "SIERRA MADRE OCCIDENTAL" }, { "name" : "SIERRA MADRE ORIENTAL" }, { "name" : "SIERRAS DE CHIAPAS Y GUATEMALA" }, { "name" : "SIERRAS Y LLANURAS DEL NORTE" }, { "name" : "Tablilla de Ocho" }, { "name" : "Tabloncillo" }, { "name" : "Tabloncillo Perla" }, { "name" : "Tehua" }, { "name" : "Tepecintle" }, { "name" : "Tripsacum" }, { "name" : "Tripsacum bravum" }, { "name" : "Tripsacum dactyloides dactyloides" }, { "name" : "Tripsacum dactyloides hispidum" }, { "name" : "Tripsacum dactyloides mexicanum" }, { "name" : "Tripsacum intermedium" }, { "name" : "Tripsacum jalapense" }, { "name" : "Tripsacum lanceolatum" }, { "name" : "Tripsacum latifolium" }, { "name" : "Tripsacum laxum" }, { "name" : "Tripsacum maizar" }, { "name" : "Tripsacum manisuroides" }, { "name" : "Tripsacum pilosum" }, { "name" : "Tripsacum sp" }, { "name" : "Tripsacum zopilotense" }, { "name" : "Tropicales precoces" }, { "name" : "Tropicales tardíos" }, { "name" : "Tuxpeño" }, { "name" : "Tuxpeño Norteño" }, { "name" : "Uruapeño" }, { "name" : "Vandeño" }, { "name" : "Zamorano Amarillo" }, { "name" : "Zapalote Chico" }, { "name" : "Zapalote Grande" }, { "name" : "Zea mays subsp. Mexicana" } ] ; 
+ var margin = {top: 1, right: 1, bottom: 6, left: 1},
+width = 900 - margin.left - margin.right,
+height = 600 - margin.top - margin.bottom;
+
+var formatNumber = d3.format(",.0f"),
+format = function(d) { return formatNumber(d); },
+color = d3.scale.category20();
+
+var svg = d3.select("body").append("svg")
+.attr("width", width + margin.left + margin.right)
+.attr("height", height + margin.top + margin.bottom)
+.append("g")
+.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var sankey = d3.sankey()
+.nodes(d3.values(nodes))
+.links(links)
+.nodeWidth(40)
+.nodePadding(5)
+.size([width, height])
+.layout(32);
+
+var path = sankey.link();
+
+var link = svg.append("g").selectAll(".link")
+.data(sankey.links())
+.enter().append("path")
+.attr("class", "link")
+.attr("d", path)
+.style("stroke-width", function(d) { return Math.max(1, d.dy); })
+.sort(function(a, b) { return b.dy - a.dy; });
+
+link.append("title")
+.text(function(d) { return d.source.name + " → " + d.target.name + "\n" + format(d.value); });
+
+var node = svg.append("g").selectAll(".node")
+.data(sankey.nodes())
+.enter().append("g")
+.attr("class", "node")
+.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+.call(d3.behavior.drag()
+.origin(function(d) { return d; })
+.on("dragstart", function() { this.parentNode.appendChild(this); })
+.on("drag", dragmove));
+
+node.append("rect")
+.attr("height", function(d) { return d.dy; })
+.attr("width", sankey.nodeWidth())
+.style("fill", function(d) { return d.color = color(d.name.replace(/ .*/, "")); })
+.style("stroke", function(d) { return d3.rgb(d.color).darker(2); })
+.append("title")
+.text(function(d) { return d.name + "\n" + format(d.value); });
+
+node.append("text")
+.attr("x", -6)
+.attr("y", function(d) { return d.dy / 2; })
+.attr("dy", ".35em")
+.attr("text-anchor", "end")
+.attr("transform", null)
+.text(function(d) { return d.name; })
+.filter(function(d) { return d.x < width / 2; })
+.attr("x", 6 + sankey.nodeWidth())
+.attr("text-anchor", "start");
+
+function dragmove(d) {
+d3.select(this).attr("transform", "translate(" + d.x + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
+sankey.relayout();
+link.attr("d", path);
+}
+
+</script>
+
+ </body>

@@ -12,14 +12,13 @@ library(igraph)
 library(d3Network)
 library(rCharts)
 
-#library(ggplot2movies)
-#For PC
-#setwd("C:\\Users\\aponce\\Dropbox\\JANO\\2016\\Conabio\\Github\\shiny_maiz\\")
 
 #For Mac
-setwd("~/Dropbox/JANO/2016/Conabio/JLarson/")
+dir()
+setwd("~/Dropbox/JANO/2016/Conabio/JLarson/LastDataBase")
 
-TableP <- read.csv("MaicesAlejandro_Intersect.csv", head = T, sep = ",")
+TableP <- read.csv("Maíz.csv", header = T, sep = ",")
+
 #str(TableP)
 names(TableP)
 levels(TableP$Complejo_r)
@@ -94,29 +93,43 @@ names(TTabla)
 levels(TTabla$Estado)
 levels(TTabla$Complejo_r)
 names(TTabla)
-names(TTabla)[11] <- c("longitude")
-names(TTabla)[12] <- c("latitude")
+names(TTabla)[15] <- c("longitude")
+names(TTabla)[16] <- c("latitude")
 
 dim(TTabla)
 nrow(TTabla)
 
 
-TableL <- TTabla
+TableL <- TTabla %>%
+  select(Raza_prima, Complejo_r, Estado, Municipio, Localidad, NOMBRE, PROVBIOB) %>%
+  mutate(Val1 = rep(1, nrow(TTabla)))
+head(TableL)
 
-names(TableL)
-Val1 <- rep(1, nrow(TableL))
-TableL1 <- data.frame(TableL,Val1)
-rm(Val1)
 
-names(TableL1)
-
-TableL2 <- TableL1[,c(3,4,7,13,14)]
-dim(TableL2)
-head(TableL2,30)
+dir()
+Teoc <- read.csv("Teocintle.csv", sep = ",", header = T)
+summary(Teoc)
+summary(Teoc$NOMBRE)
 #names(TableL2)
 #levels(TableL2$Complejo_racial)
+names(Teoc)
+Teoc1 <- Teoc %>%
+  select(Raza_prima, Complejo_r, Estado, Municipio, Localidad, NOMBRE, PROVBIOB) %>%
+  mutate(Val1 = rep(1, nrow(Teoc))) %>%
+  filter(!is.na(Complejo_r)) %>%
+  filter(!is.na(Raza_prima))
 
+summary(Teoc1)
 
+head(Teoc1)
+head(TableL2)
+
+TableL2 <- rbind(TableL, Teoc1)
+dim(TableL2)
+names(TableL2)
+head(TableL2)
+
+#TableL2 <- TableL
 attach(TableL2)
 #TableLJJ <- aggregate(Val1 ~ Complejo_racial + Estado , FUN = sum, na.rm = T)
 #TableLJJF <- aggregate(Val1 ~ Complejo_racial + Raza_primaria, FUN = sum, na.rm = T)
@@ -125,7 +138,7 @@ attach(TableL2)
 #TableLJJF <- aggregate(Val1 ~ Raza_prima + NOMBRE, FUN = sum, na.rm = T)
 
 TableLJJ <- aggregate(Val1 ~  Complejo_r + Raza_prima , FUN = sum, na.rm = T)
-TableLJJF <- aggregate(Val1 ~ Complejo_r + NOMBRE, FUN = sum, na.rm = T)
+TableLJJF <- aggregate(Val1 ~ Complejo_r + PROVBIOB, FUN = sum, na.rm = T)
 
 
 #TableL1b <- aggregate(TableL1[,17], by = list(Raza_Primaria,Estado), FUN = sum, na.rm = T)
@@ -141,7 +154,7 @@ detach(TableL2)
 
 Katcha <- rbind(TableLJJ,TableLJJF)
 head(Katcha)
-
+Katcha
 #write.table(Katcha, file="KatchaTTT.txt", sep="\t")
 
 TTT <- c(brewer.pal(8,"Dark2"))
@@ -271,7 +284,7 @@ str(KatNodes1)
 
 d3Sankey(Links = HHH3, Nodes = KatNodes1, Source = "source",
          Target = "target", Value = "value", NodeID = "name",
-         fontsize = 10, nodeWidth = 40, width = 900, nodePadding = 5, file = "~/Desktop/TestSankey2.html")
+         fontsize = 10, nodeWidth = 40, height = 700, width = 900, nodePadding = 3, file = "~/Desktop/TestSankey1.html")
 
 
 
